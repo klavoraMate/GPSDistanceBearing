@@ -1,7 +1,7 @@
-import {Point} from "./Point";
+import {GPSP} from "./GPSP";
 
 export type GPSTrack = {
     date:string,
     time:string,
-    point:Point
+    GPSP:GPSP
 }

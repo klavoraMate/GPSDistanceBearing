@@ -1,16 +1,16 @@
 import {DistanceBearingCalculator} from '../src/logic/DistanceBearingCalculator';
-import {Point} from "../src/data/Point";
+import {GPSP} from "../src/data/GPSP";
 
 class MockDistanceBearingCalculator extends DistanceBearingCalculator {
 
 }
 
-const pointA: Point = {
+const pointA: GPSP = {
     lat: 47.50741,
     lon: 18.60759,
 };
 
-const pointB: Point = {
+const pointB: GPSP = {
     lat: 47.50060,
     lon: 18.59482,
 };

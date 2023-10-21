@@ -5,7 +5,7 @@ export class JsonGPSTrackInputFileParser implements GenericGPSTrackInputFilePars
     private fileName: string;
 
     parse(): GPSTrack[] {
-        return [{point:{lat: 0, lon: 0}, date: "0", time: "0"}];
+        return [{GPSP:{lat: 0, lon: 0}, date: "0", time: "0"}];
     }
 
     constructor(inputFileName: string) {

@@ -1,4 +1,4 @@
-import {Point} from "../data/Point";
+import {GPSP} from "../data/GPSP";
 import {Calculator} from "./Calculator";
 import {GPSTrack} from "../data/GPSTrack";
 import {DistanceBearing} from "../data/DistanceBearing";
@@ -7,11 +7,11 @@ export abstract class DistanceBearingCalculator extends Calculator<GPSTrack[], D
     protected tracks: GPSTrack[] = [];
     protected results: DistanceBearing[] = [];
 
-    distance(pointA: Point, pointB: Point): number {
+    distance(pointA: GPSP, pointB: GPSP): number {
         return 0;
     }
 
-    bearing(pointA: Point, pointB: Point): number {
+    bearing(pointA: GPSP, pointB: GPSP): number {
         return 0;
     }
 

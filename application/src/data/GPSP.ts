@@ -1,4 +1,4 @@
-export type Point = {
+export type GPSP = {
     lat: number,
     lon: number
 }

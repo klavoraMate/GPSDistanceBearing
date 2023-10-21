@@ -1,7 +1,7 @@
-import {Point} from "./Point";
+import {GPSP} from "./GPSP";
 
 export type DistanceBearing={
-    point:Point
+    point:GPSP
     distance:number,
     bearing:number
 }
