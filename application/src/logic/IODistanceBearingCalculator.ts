@@ -16,15 +16,17 @@ export class IODistanceBearingCalculator extends DistanceBearingCalculator {
         this.generator = generator;
     }
 
-    run(): void {
-        this.parser.parse()
-            .then(tracks => {
-                Logger.step('GPS tracks parsed successfully',1);
-            })
-            .catch(error => {
-                Logger.error('An error occurred during parsing the input:', error);
-            });
-        //const result = super.calculate(gpsTracks);
-        //this.generator.generate(result);
+    async run(): Promise<void> {
+        try {
+            Logger.step('GPS tracks parsing started');
+            const parsedTracks = await this.parser.parse();
+            Logger.step('GPS tracks parsed successfully');
+
+            const result = super.calculate(parsedTracks);
+            // this.generator.generate(result);
+        } catch (error) {
+            Logger.error('An error occurred during parsing or calculation:', error);
+        }
     }
+
 }
