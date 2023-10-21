@@ -2,6 +2,7 @@ import {LogLevel} from "./LogLevel";
 
 export class Logger {
     private static MAX_STEP: number = 10;
+    private static currentStep:number =0;
 
     private static log(message: string, logLevel: LogLevel): void {
         const logMessage = this.getLogPrefix(logLevel) + message;
@@ -17,8 +18,9 @@ export class Logger {
         this.log(message, LogLevel.INFO);
     }
 
-    static step(message: string, index: number): void {
-        this.logWithIndex(message, LogLevel.STEP, index);
+    static step(message: string): void {
+        this.currentStep++;
+        this.logWithIndex(message, LogLevel.STEP, this.currentStep);
     }
 
     static error(message: string, error: Error | unknown): void {
