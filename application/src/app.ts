@@ -2,6 +2,7 @@ import {IODistanceBearingCalculator} from "./logic/IODistanceBearingCalculator";
 import {JsonGPSTrackInputFileParser} from "./IO/in/JsonGPSTrackInputFileParser";
 import {MetricDistanceBearingToJsonOutputGenerator} from "./IO/out/MetricDistanceBearingToJsonOutputGenerator";
 import {ImperialDistanceBearingToJsonOutputGenerator} from "./IO/out/ImperialDistanceBearingToJsonOutputGenerator";
+import {Logger} from "./util/Logger";
 
 const args = process.argv.slice(2);
 const inputFileName = args[0];
@@ -24,5 +25,5 @@ switch (measurementSystem) {
         break;
     }
     default:
-        console.log("Invalid command. Usage: node ./dir/src/app.js <input file name> <output file name> [metric,imperial]")
+        Logger.info("Invalid command. Usage: node ./dir/src/app.js <input file name> <output file name> [metric,imperial]")
 }

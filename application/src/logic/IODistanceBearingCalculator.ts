@@ -1,7 +1,7 @@
 import {DistanceBearingCalculator} from "./DistanceBearingCalculator";
 import {GenericGPSTrackInputFileParser} from "../IO/in/GenericGPSTrackInputFileParser";
 import {GenericDistanceBearingToJsonOutputGenerator} from "../IO/out/GenericDistanceBearingToJsonOutputGenerator";
-import {GPSTrack} from "../data/GPSTrack";
+import {Logger} from "../util/Logger";
 
 export class IODistanceBearingCalculator extends DistanceBearingCalculator {
     private parser: GenericGPSTrackInputFileParser;
@@ -19,10 +19,10 @@ export class IODistanceBearingCalculator extends DistanceBearingCalculator {
     run(): void {
         this.parser.parse()
             .then(tracks => {
-                console.log('Parsed tracks:', tracks);
+                Logger.step('GPS tracks parsed successfully',1);
             })
             .catch(error => {
-                console.error('An error occurred:', error);
+                Logger.error('An error occurred during parsing the input:', error);
             });
         //const result = super.calculate(gpsTracks);
         //this.generator.generate(result);
