@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start-metric": "node /dir/app.js metric",
-    "start-imperial": "node /dir/app.js imperial",
+    "start-metric": "node ./dir/src/app.js metric",
+    "start-imperial": "node ./dir/src/app.js imperial",
     "build": "tsc -outDir ./dir",
     "test": "jest"
   },
