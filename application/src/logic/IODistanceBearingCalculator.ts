@@ -17,7 +17,13 @@ export class IODistanceBearingCalculator extends DistanceBearingCalculator {
     }
 
     run(): void {
-        const gpsTracks: GPSTrack[] = this.parser.parse();
+        this.parser.parse()
+            .then(tracks => {
+                console.log('Parsed tracks:', tracks);
+            })
+            .catch(error => {
+                console.error('An error occurred:', error);
+            });
         //const result = super.calculate(gpsTracks);
         //this.generator.generate(result);
     }
