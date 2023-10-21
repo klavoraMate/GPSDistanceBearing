@@ -1,5 +1,5 @@
 import {DistanceBearing} from "../../data/DistanceBearing";
 
-export interface GenericDistanceBearingToJsonOutput{
+export interface GenericDistanceBearingToJsonOutputGenerator {
     generate(distanceBearings:DistanceBearing[]):void
 }
