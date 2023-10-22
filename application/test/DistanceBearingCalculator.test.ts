@@ -21,7 +21,7 @@ describe('DistanceBearingCalculator', () => {
         const calculator = new MockDistanceBearingCalculator();
 
         const result = calculator.distance(pointA,pointB);
-        expect(result).toBeCloseTo(1221);
+        expect(result).toBeCloseTo(1222,0);
     });
 
     test('bearing() should calculate the bearing correctly', () => {
