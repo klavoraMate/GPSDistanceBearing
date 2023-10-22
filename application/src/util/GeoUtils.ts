@@ -1,6 +1,9 @@
 import {GPSP} from "../data/GPSP";
 
-export class GeoUtils{
+/**
+ * source: https://www.movable-type.co.uk/scripts/latlong.html
+ */
+export class GeoUtils {
 
     /**
      * Returns the distance along the surface of the earth from pointA to pointB.
@@ -16,10 +19,10 @@ export class GeoUtils{
         // c = 2·atan2(√(a), √(1−a))
         // d = R * c
         const R = 6371e3; //earth’s radius (mean radius = 6,371km)
-        const φ1 = pointA.lat * Math.PI / 180;
-        const φ2 = pointB.lat * Math.PI / 180;
-        const Δφ = (pointB.lat - pointA.lat) * Math.PI / 180;
-        const Δλ = (pointB.lon - pointA.lon) * Math.PI / 180;
+        const φ1 = this.toRadians(pointA.lat);
+        const φ2 = this.toRadians(pointB.lat);
+        const Δφ = this.toRadians((pointB.lat - pointA.lat));
+        const Δλ = this.toRadians((pointB.lon - pointA.lon));
 
         const a = Math.sin(Δφ / 2) * Math.sin(Δφ / 2) +
             Math.cos(φ1) * Math.cos(φ2) *
@@ -40,17 +43,46 @@ export class GeoUtils{
      */
     static bearing(pointA: GPSP, pointB: GPSP): number {
         // tanθ = sinΔλ⋅cosφ2 / cosφ1⋅sinφ2 − sinφ1⋅cosφ2⋅cosΔλ
-        const φ1 = pointA.lat * Math.PI / 180;
-        const φ2 = pointB.lat * Math.PI / 180;
-        const Δλ = (pointB.lon - pointA.lon) * Math.PI / 180;
+        const φ1 = this.toRadians(pointA.lat);
+        const φ2 = this.toRadians(pointB.lat);
+        const Δλ = this.toRadians(pointB.lon - pointA.lon);
 
         const x = Math.cos(φ1) * Math.sin(φ2) - Math.sin(φ1) * Math.cos(φ2) * Math.cos(Δλ);
         const y = Math.sin(Δλ) * Math.cos(φ2);
         const θ = Math.atan2(y, x);
-        const θdeg = θ * 180 / Math.PI
-        const a = 180, p = 360;
 
-        return (((2 * a * θdeg / p) % p) + p) % p;
+        const bearing = this.toDegrees(θ);
 
+        return this.wrap360(bearing);
     }
+
+    /**
+     * Constrain degrees to range 0..360 (for bearings); e.g. -1 => 359, 361 => 1.
+     *
+     * @private
+     * @param  degrees
+     * @returns degrees within range 0..360.
+     */
+    static wrap360(degrees: number): number {
+        if (0 <= degrees && degrees < 360) return degrees; // avoid rounding due to arithmetic ops if within range
+
+        // bearing wrapping requires a sawtooth wave function with a vertical offset equal to the
+        // amplitude and a corresponding phase shift; this changes the general sawtooth wave function from
+        //     f(x) = (2ax/p - p/2) % p - a
+        // to
+        //     f(x) = (2ax/p) % p
+        // where a = amplitude, p = period, % = modulo; however, JavaScript '%' is a remainder operator
+        // not a modulo operator - for modulo, replace 'x%n' with '((x%n)+n)%n'
+        const x = degrees, a = 180, p = 360;
+        return (((2 * a * x / p) % p) + p) % p;
+    }
+
+    private static toRadians(number: number): number {
+        return number * Math.PI / 180;
+    }
+
+    private static toDegrees(number: number): number {
+        return number * 180 / Math.PI;
+    }
+
 }
