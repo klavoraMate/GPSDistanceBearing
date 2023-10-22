@@ -11,9 +11,9 @@ export abstract class DistanceBearingCalculator extends Calculator<GPSTrack[], D
      * Returns the distance along the surface of the earth from pointA to pointB.
      * Distance is calculated with the Haversine formula.
      *
-     * @param pointA  Starting Latitude/Longitude point
-     * @param pointB  Destination Latitude/Longitude point
-     * @returns number Distance between the pointA and pointB in meters
+     * @param pointA  Starting Latitude/Longitude point.
+     * @param pointB  Destination Latitude/Longitude point.
+     * @returns number Distance between the pointA and pointB in meters.
      */
     distance(pointA: GPSP, pointB: GPSP): number {
         // Haversine formula:
@@ -35,8 +35,27 @@ export abstract class DistanceBearingCalculator extends Calculator<GPSTrack[], D
         return d;
     }
 
+    /**
+     * Returns the initial bearing from pointA to pointB.
+     *
+     * @param pointA Starting Latitude/Longitude point.
+     * @param pointB Destination Latitude/Longitude point.
+     * @returns number Initial bearing in degrees from north (0°..360°).
+     */
     bearing(pointA: GPSP, pointB: GPSP): number {
-        return 0;
+        // tanθ = sinΔλ⋅cosφ2 / cosφ1⋅sinφ2 − sinφ1⋅cosφ2⋅cosΔλ
+        const φ1 = pointA.lat * Math.PI / 180;
+        const φ2 = pointB.lat * Math.PI / 180;
+        const Δλ = (pointB.lon - pointA.lon) * Math.PI / 180;
+
+        const x = Math.cos(φ1) * Math.sin(φ2) - Math.sin(φ1) * Math.cos(φ2) * Math.cos(Δλ);
+        const y = Math.sin(Δλ) * Math.cos(φ2);
+        const θ = Math.atan2(y, x);
+        const θdeg = θ * 180 / Math.PI
+        const a = 180, p = 360;
+
+        return (((2 * a * θdeg / p) % p) + p) % p;
+
     }
 
     calculate(input: GPSTrack[]): DistanceBearing[] {
