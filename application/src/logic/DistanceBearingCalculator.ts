@@ -7,8 +7,20 @@ export abstract class DistanceBearingCalculator extends Calculator<GPSTrack[], D
     protected tracks: GPSTrack[] = [];
     protected results: DistanceBearing[] = [];
 
+    /**
+     * Returns the distance along the surface of the earth from pointA to pointB.
+     * Distance is calculated with the Haversine formula.
+     *
+     * @param pointA  Starting Latitude/Longitude point
+     * @param pointB  Destination Latitude/Longitude point
+     * @returns number Distance between the pointA and pointB in meters
+     */
     distance(pointA: GPSP, pointB: GPSP): number {
-        const R = 6371e3;
+        // Haversine formula:
+        // a = sin²(Δφ/2) + cos(φ1)⋅cos(φ2)⋅sin²(Δλ/2)
+        // c = 2·atan2(√(a), √(1−a))
+        // d = R * c
+        const R = 6371e3; //earth’s radius (mean radius = 6,371km)
         const φ1 = pointA.lat * Math.PI / 180;
         const φ2 = pointB.lat * Math.PI / 180;
         const Δφ = (pointB.lat - pointA.lat) * Math.PI / 180;
