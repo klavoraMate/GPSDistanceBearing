@@ -16,7 +16,7 @@ export class JsonGPSTrackInputFileParser implements GenericGPSTrackInputFilePars
                     reject(error);
                     return;
                 }
-                Logger.step("Input file <" + this.fileName + "> found")
+                Logger.step("Input file <" + this.fileName + "> found.")
                 try {
                     const jsonData = JSON.parse(data);
                     const tracks = jsonData.input;
