@@ -1,7 +1,7 @@
 import {IODistanceBearingCalculator} from "./logic/IODistanceBearingCalculator";
 import {JsonGPSTrackInputFileParser} from "./IO/in/JsonGPSTrackInputFileParser";
-import {MetricDistanceBearingToJsonOutputGenerator} from "./IO/out/MetricDistanceBearingToJsonOutputGenerator";
-import {ImperialDistanceBearingToJsonOutputGenerator} from "./IO/out/ImperialDistanceBearingToJsonOutputGenerator";
+import {MetricDistanceBearingToJsonFileGenerator} from "./IO/out/MetricDistanceBearingToJsonFileGenerator";
+import {ImperialDistanceBearingToJsonFileGenerator} from "./IO/out/ImperialDistanceBearingToJsonFileGenerator";
 import {Logger} from "./util/Logger";
 
 const args = process.argv.slice(2);
@@ -12,14 +12,14 @@ switch (measurementSystem) {
     //todo: create a IODistanceBearingCalculatorBuilder
     case "metric": {
         const parser = new JsonGPSTrackInputFileParser(inputFileName);
-        const generator = new MetricDistanceBearingToJsonOutputGenerator(outputFileName);
+        const generator = new MetricDistanceBearingToJsonFileGenerator(outputFileName);
         const calculator = new IODistanceBearingCalculator(parser, generator);
         calculator.run();
         break;
     }
     case "imperial": {
         const parser = new JsonGPSTrackInputFileParser(inputFileName);
-        const generator = new ImperialDistanceBearingToJsonOutputGenerator(outputFileName);
+        const generator = new ImperialDistanceBearingToJsonFileGenerator(outputFileName);
         const calculator = new IODistanceBearingCalculator(parser, generator);
         calculator.run()
         break;

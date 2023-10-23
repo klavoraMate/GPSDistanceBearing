@@ -1,15 +1,15 @@
 import {DistanceBearingCalculator} from "./DistanceBearingCalculator";
 import {GenericGPSTrackInputFileParser} from "../IO/in/GenericGPSTrackInputFileParser";
-import {GenericDistanceBearingToJsonOutputGenerator} from "../IO/out/GenericDistanceBearingToJsonOutputGenerator";
+import {GenericDistanceBearingToJsonFileGenerator} from "../IO/out/GenericDistanceBearingToJsonFileGenerator";
 import {Logger} from "../util/Logger";
 
 export class IODistanceBearingCalculator extends DistanceBearingCalculator {
     private parser: GenericGPSTrackInputFileParser;
-    private generator: GenericDistanceBearingToJsonOutputGenerator;
+    private generator: GenericDistanceBearingToJsonFileGenerator;
 
     constructor(
         parser: GenericGPSTrackInputFileParser,
-        generator: GenericDistanceBearingToJsonOutputGenerator
+        generator: GenericDistanceBearingToJsonFileGenerator
     ) {
         super();
         this.parser = parser;
@@ -25,9 +25,13 @@ export class IODistanceBearingCalculator extends DistanceBearingCalculator {
             Logger.step('Distance and bearing calculation started.')
             const result = super.calculate(parsedTracks);
             Logger.step('Distance and bearing calculation ended.')
-            // this.generator.generate(result);
+
+            Logger.step('Creating Distance and bearing calculation output file.')
+            this.generator.generate(result);
         } catch (error) {
-            Logger.error('An error occurred during parsing or calculation:', error);
+            Logger.error('An error occurred during running:', error);
+            Logger.info('Terminating with failure.')
+            process.exit(1)
         }
     }
 
