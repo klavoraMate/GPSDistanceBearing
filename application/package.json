@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start-metric": "npm run build && node ./dir/src/app.js input.json output.json metric",
-    "start-imperial": "npm run build && node ./dir/src/app.js input.json output.json imperial",
+    "start-metric": "npm run build && node ./dir/app.js input.json output.json metric",
+    "start-imperial": "npm run build && node ./dir/app.js input.json output.json imperial",
     "build": "tsc -outDir ./dir",
     "test": "jest"
   },

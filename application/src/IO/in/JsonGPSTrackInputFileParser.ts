@@ -8,7 +8,7 @@ export class JsonGPSTrackInputFileParser implements GenericGPSTrackInputFilePars
     private readonly fileName: string;
 
     async parse(): Promise<GPSTrack[]> {
-        const jsonFilePath = path.join(__dirname, '../../../../resources/' + this.fileName);
+        const jsonFilePath = path.join(__dirname, '../../../resources/' + this.fileName);
         return new Promise<GPSTrack[]>((resolve, reject) => {
             fs.readFile(jsonFilePath, 'utf8', (error: NodeJS.ErrnoException | null, data) => {
                 if (error) {
@@ -16,7 +16,7 @@ export class JsonGPSTrackInputFileParser implements GenericGPSTrackInputFilePars
                     reject(error);
                     return;
                 }
-                Logger.step("Input file <" + this.fileName + "> found")
+                Logger.step("Input file <" + this.fileName + "> found.")
                 try {
                     const jsonData = JSON.parse(data);
                     const tracks = jsonData.input;
