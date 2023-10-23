@@ -1,7 +1,10 @@
+/**
+ * Represents GPS coordinates with latitude and longitude.
+ * @property {number} lat - The latitude component of the GPS coordinates.
+ * @property {number} lon - The longitude component of the GPS coordinates.
+ */
 export type GPSP = {
-    //Latitude in degrees north from equator
     lat: number,
 
-    //Longitude in degrees east from international reference meridian
     lon: number
 }

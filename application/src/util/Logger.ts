@@ -2,7 +2,7 @@ import {LogLevel} from "./LogLevel";
 
 export class Logger {
     private static MAX_STEP: number = 7;
-    private static currentStep:number =0;
+    private static currentStep: number = 0;
 
     private static log(message: string, logLevel: LogLevel): void {
         const logMessage = this.getLogPrefix(logLevel) + message;

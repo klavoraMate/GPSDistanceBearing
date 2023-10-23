@@ -9,7 +9,6 @@ const inputFileName = args[0];
 const outputFileName = args[1];
 const measurementSystem = args[2]
 switch (measurementSystem) {
-    //todo: create a IODistanceBearingCalculatorBuilder
     case "metric": {
         const parser = new JsonGPSTrackInputFileParser(inputFileName);
         const generator = new MetricDistanceBearingToJsonFileGenerator(outputFileName);
