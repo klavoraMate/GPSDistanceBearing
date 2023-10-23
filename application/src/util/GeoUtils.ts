@@ -1,7 +1,9 @@
 import {GPSP} from "../data/GPSP";
 
 /**
- * source: https://www.movable-type.co.uk/scripts/latlong.html
+ * Contains general GPS related calculation and helper functions.
+ * Also, GPS related unit conversion helper functions.
+ * @source: https://www.movable-type.co.uk/scripts/latlong.html
  */
 export class GeoUtils {
 
@@ -12,6 +14,10 @@ export class GeoUtils {
      * @param pointA  Starting Latitude/Longitude point.
      * @param pointB  Destination Latitude/Longitude point.
      * @returns number Distance between the pointA and pointB in meters.
+     * @example
+     *         const pointA: GPSP = { lat: 47.50741, lon: 18.60759 };
+     *         const pointB: GPSP = { lat: 47.50060, lon: 18.59482 };
+     *         const result = GeoUtils.distance(pointA, pointB); // ~1222
      */
     static distance(pointA: GPSP, pointB: GPSP): number {
         // Haversine formula:
@@ -19,10 +25,10 @@ export class GeoUtils {
         // c = 2·atan2(√(a), √(1−a))
         // d = R * c
         const R = 6371e3; //earth’s radius (mean radius = 6,371km)
-        const φ1 = this.degreeToRadians(pointA.lat);
-        const φ2 = this.degreeToRadians(pointB.lat);
-        const Δφ = this.degreeToRadians((pointB.lat - pointA.lat));
-        const Δλ = this.degreeToRadians((pointB.lon - pointA.lon));
+        const φ1 = this.degreesToRadians(pointA.lat);
+        const φ2 = this.degreesToRadians(pointB.lat);
+        const Δφ = this.degreesToRadians((pointB.lat - pointA.lat));
+        const Δλ = this.degreesToRadians((pointB.lon - pointA.lon));
 
         const a = Math.sin(Δφ / 2) * Math.sin(Δφ / 2) +
             Math.cos(φ1) * Math.cos(φ2) *
@@ -40,22 +46,40 @@ export class GeoUtils {
      * @param pointA Starting Latitude/Longitude point.
      * @param pointB Destination Latitude/Longitude point.
      * @returns number Initial bearing in degrees from north (0°..360°).
+     * @example
+     *         const pointA: GPSP = { lat: 47.50741, lon: 18.60759 };
+     *         const pointB: GPSP = { lat: 47.50060, lon: 18.59482 };
+     *         const result = GeoUtils.bearing(pointA, pointB); // ~232
      */
     static bearing(pointA: GPSP, pointB: GPSP): number{
         if (this.equalPoints(pointA,pointB)) return NaN;
         // tanθ = sinΔλ⋅cosφ2 / cosφ1⋅sinφ2 − sinφ1⋅cosφ2⋅cosΔλ
-        const φ1 = this.degreeToRadians(pointA.lat);
-        const φ2 = this.degreeToRadians(pointB.lat);
-        const Δλ = this.degreeToRadians(pointB.lon - pointA.lon);
+        const φ1 = this.degreesToRadians(pointA.lat);
+        const φ2 = this.degreesToRadians(pointB.lat);
+        const Δλ = this.degreesToRadians(pointB.lon - pointA.lon);
 
         const x = Math.cos(φ1) * Math.sin(φ2) - Math.sin(φ1) * Math.cos(φ2) * Math.cos(Δλ);
         const y = Math.sin(Δλ) * Math.cos(φ2);
         const θ = Math.atan2(y, x);
 
-        const bearing = this.radianToDegrees(θ);
+        const bearing = this.radiansToDegrees(θ);
 
         return this.wrap360(bearing);
     }
+
+    /**
+     * Checks if two points are the same.
+     *
+     * @param pointA
+     * @param pointB
+     * @example
+     *      const pointA = {lat:20.31452,lon:40.24562};
+     *      const pointB = {lat:30.78355,lon:78.68232};
+     *      const pointC = pointA;
+     *
+     *      equalPoints(pointA,pointB) //false
+     *      equalPoints(pointA,pointC) //true
+     */
     static equalPoints(pointA:GPSP,pointB:GPSP):boolean{
         return pointA.lat === pointB.lat && pointA.lon === pointB.lon;
     }
@@ -81,16 +105,26 @@ export class GeoUtils {
         return (((2 * a * x / p) % p) + p) % p;
     }
 
-    static degreeToRadians(number: number): number {
+    /**
+     * Converts degrees to radians
+     *
+     * @param number in degrees
+     */
+    static degreesToRadians(number: number): number {
         return number * Math.PI / 180;
     }
 
-    static radianToDegrees(number: number): number {
+    /**
+     * Converts radians to degrees
+     *
+     * @param number in radians
+     */
+    static radiansToDegrees(number: number): number {
         return number * 180 / Math.PI;
     }
 
     /**
-     * Convert meter to yard.
+     * Converts meters to yards.
      * @param meter Value which needs to be converted.
      * @returns number - Converted value in yards.
      */

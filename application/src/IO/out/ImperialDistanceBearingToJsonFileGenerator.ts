@@ -20,7 +20,7 @@ export class ImperialDistanceBearingToJsonFileGenerator implements GenericDistan
             return {
                 fromGPSP: record.fromGPSP,
                 distance: Math.round(GeoUtils.meterToYard(record.distance)),
-                bearing: Math.round(GeoUtils.degreeToRadians(record.bearing))
+                bearing: Math.round(GeoUtils.degreesToRadians(record.bearing))
             }
         })
     }
