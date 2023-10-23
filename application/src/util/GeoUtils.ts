@@ -19,10 +19,10 @@ export class GeoUtils {
         // c = 2·atan2(√(a), √(1−a))
         // d = R * c
         const R = 6371e3; //earth’s radius (mean radius = 6,371km)
-        const φ1 = this.toRadians(pointA.lat);
-        const φ2 = this.toRadians(pointB.lat);
-        const Δφ = this.toRadians((pointB.lat - pointA.lat));
-        const Δλ = this.toRadians((pointB.lon - pointA.lon));
+        const φ1 = this.degreeToRadians(pointA.lat);
+        const φ2 = this.degreeToRadians(pointB.lat);
+        const Δφ = this.degreeToRadians((pointB.lat - pointA.lat));
+        const Δλ = this.degreeToRadians((pointB.lon - pointA.lon));
 
         const a = Math.sin(Δφ / 2) * Math.sin(Δφ / 2) +
             Math.cos(φ1) * Math.cos(φ2) *
@@ -43,15 +43,15 @@ export class GeoUtils {
      */
     static bearing(pointA: GPSP, pointB: GPSP): number {
         // tanθ = sinΔλ⋅cosφ2 / cosφ1⋅sinφ2 − sinφ1⋅cosφ2⋅cosΔλ
-        const φ1 = this.toRadians(pointA.lat);
-        const φ2 = this.toRadians(pointB.lat);
-        const Δλ = this.toRadians(pointB.lon - pointA.lon);
+        const φ1 = this.degreeToRadians(pointA.lat);
+        const φ2 = this.degreeToRadians(pointB.lat);
+        const Δλ = this.degreeToRadians(pointB.lon - pointA.lon);
 
         const x = Math.cos(φ1) * Math.sin(φ2) - Math.sin(φ1) * Math.cos(φ2) * Math.cos(Δλ);
         const y = Math.sin(Δλ) * Math.cos(φ2);
         const θ = Math.atan2(y, x);
 
-        const bearing = this.toDegrees(θ);
+        const bearing = this.radianToDegrees(θ);
 
         return this.wrap360(bearing);
     }
@@ -77,12 +77,20 @@ export class GeoUtils {
         return (((2 * a * x / p) % p) + p) % p;
     }
 
-    private static toRadians(number: number): number {
+    static degreeToRadians(number: number): number {
         return number * Math.PI / 180;
     }
 
-    private static toDegrees(number: number): number {
+    static radianToDegrees(number: number): number {
         return number * 180 / Math.PI;
     }
 
+    /**
+     * Convert meter to yard.
+     * @param meter Value which needs to be converted.
+     * @returns number - Converted value in yards.
+     */
+    static meterToYard(meter:number):number{
+        return meter*1.093613;
+    }
 }
