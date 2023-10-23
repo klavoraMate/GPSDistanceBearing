@@ -1,15 +1,15 @@
 import {DistanceBearingCalculator} from "./DistanceBearingCalculator";
 import {GenericGPSTrackInputFileParser} from "../IO/in/GenericGPSTrackInputFileParser";
-import {GenericDistanceBearingToJsonFileGenerator} from "../IO/out/GenericDistanceBearingToJsonFileGenerator";
+import {GenericDistanceBearingToFileGenerator} from "../IO/out/GenericDistanceBearingToFileGenerator";
 import {Logger} from "../util/Logger";
 
 export class IODistanceBearingCalculator extends DistanceBearingCalculator {
     private parser: GenericGPSTrackInputFileParser;
-    private generator: GenericDistanceBearingToJsonFileGenerator;
+    private generator: GenericDistanceBearingToFileGenerator;
 
     constructor(
         parser: GenericGPSTrackInputFileParser,
-        generator: GenericDistanceBearingToJsonFileGenerator
+        generator: GenericDistanceBearingToFileGenerator
     ) {
         super();
         this.parser = parser;

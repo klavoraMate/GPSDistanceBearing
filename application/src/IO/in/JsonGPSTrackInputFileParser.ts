@@ -4,9 +4,16 @@ import * as fs from "fs";
 import * as path from "path";
 import {Logger} from "../../util/Logger";
 
+/**
+ * A JSON GPSTrack input file parser that implements the GenericGPSTrackInputFileParser interface.
+ */
 export class JsonGPSTrackInputFileParser implements GenericGPSTrackInputFileParser {
     private readonly fileName: string;
 
+    /**
+     * Asynchronously parses a JSON file to extract an array of GPSTrack objects.
+     * @returns A Promise that resolves to an array of GPSTrack objects.
+     */
     async parse(): Promise<GPSTrack[]> {
         const jsonFilePath = path.join(__dirname, '../../../resources/' + this.fileName);
         return new Promise<GPSTrack[]>((resolve, reject) => {
