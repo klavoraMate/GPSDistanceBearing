@@ -5,17 +5,17 @@ import { DistanceBearing } from "../../data/DistanceBearing";
  */
 export interface GenericDistanceBearingToFileGenerator {
     /**
-     * Generates an output file from an array of DistanceBearing data.
+     * Generates an output file from an AsyncGenerator contained collection of DistanceBearing data.
      *
      * @param distanceBearings - An array of DistanceBearing data to be used for file generation.
      */
-    generate(distanceBearings: DistanceBearing[]): void;
+    generate(distanceBearings: AsyncGenerator<DistanceBearing>): void;
 
     /**
-     * Formats an array of DistanceBearing data before generating the output file.
+     * Formats an AsyncGenerator contained collection of DistanceBearing data before generating the output file.
      *
      * @param distanceBearings - An array of DistanceBearing data to be formatted.
      * @returns A formatted array of DistanceBearing data.
      */
-    formatResult(distanceBearings: DistanceBearing[]): DistanceBearing[];
+    formatResult(distanceBearings: AsyncGenerator<DistanceBearing>): AsyncGenerator<DistanceBearing>;
 }

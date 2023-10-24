@@ -1,6 +1,6 @@
 import { GenericDistanceBearingToFileGenerator } from "./GenericDistanceBearingToFileGenerator";
 import { DistanceBearing } from "../../data/DistanceBearing";
-import { SimpleJsonOutputFileGenerator } from "./SimpleJsonOutputFileGenerator";
+import { AsyncJsonOutputFileGenerator } from "./AsyncJsonOutputFileGenerator";
 import { GeoUtils } from "../../util/GeoUtils";
 
 /**
@@ -14,26 +14,27 @@ export class ImperialDistanceBearingToJsonFileGenerator implements GenericDistan
     }
 
     /**
-     * Generates a JSON output file from an array of DistanceBearing data in imperial units.
+     * Generates a JSON output file from an AsyncGenerator contained collection of DistanceBearing data in imperial units.
      * @param distanceBearings - An array of DistanceBearing data in metric units to be converted and exported.
      */
-    generate(distanceBearings: DistanceBearing[]): void {
+    generate(distanceBearings: AsyncGenerator<DistanceBearing>): void {
         distanceBearings = this.formatResult(distanceBearings);
-        SimpleJsonOutputFileGenerator.generate(distanceBearings, this.fileName);
+        AsyncJsonOutputFileGenerator.generate(distanceBearings, this.fileName);
     }
 
     /**
-     * Formats an array of DistanceBearing data from metric to imperial unit, and it is also rounds it.
+     * Formats a collection of DistanceBearing data async from metric to imperial unit, and it is also rounds it.
      * @param distanceBearings - An array of DistanceBearing data in metric units.
      * @returns A formatted array of DistanceBearing rounded data in imperial units.
      */
-    formatResult(distanceBearings: DistanceBearing[]): DistanceBearing[] {
-        return distanceBearings.map((record) => {
-            return {
-                fromGPSP: record.fromGPSP,
-                distance: Math.round(GeoUtils.meterToYard(record.distance)),
-                bearing: Math.round(GeoUtils.degreesToRadians(record.bearing))
-            };
-        });
+    async *formatResult(distanceBearings: AsyncGenerator<DistanceBearing>): AsyncGenerator<DistanceBearing> {
+        for await (let distanceBearing of distanceBearings){
+            distanceBearing = {
+                fromGPSP: distanceBearing.fromGPSP,
+                distance: Math.round(GeoUtils.meterToYard(distanceBearing.distance)),
+                bearing: Math.round(GeoUtils.degreesToRadians(distanceBearing.bearing))
+            }
+            yield distanceBearing;
+        }
     }
 }

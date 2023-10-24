@@ -2,6 +2,7 @@ import {GenericGPSTrackInputFileParser} from "../IO/in/GenericGPSTrackInputFileP
 import {GenericDistanceBearingToFileGenerator} from "../IO/out/GenericDistanceBearingToFileGenerator";
 import {Logger} from "../util/Logger";
 import {Calculator} from "./Calculator";
+import {GPSTrack} from "../data/GPSTrack";
 
 /**
  * An I/O calculator that extends the DistanceBearingCalculator class and uses
@@ -29,10 +30,7 @@ export class IODataHandler {
     async run(): Promise<void> {
         try {
             Logger.step('GPS tracks parsing started.');
-            for await (const track of this.parser.parse()) {
-                console.log(track);
-            }
-            /*const parsedTracks = await this.parser.parse();
+            const parsedTracks = this.parser.parse();
             Logger.step('GPS tracks parsed successfully.');
 
 
@@ -41,7 +39,7 @@ export class IODataHandler {
             Logger.step('Distance and bearing calculation ended.')
 
             Logger.step('Creating Distance and bearing calculation output file.');
-            this.generator.generate(result);*/
+            this.generator.generate(result);
         } catch (error) {
             Logger.error('An error occurred during running:', error);
             Logger.info('Terminating with failure.');

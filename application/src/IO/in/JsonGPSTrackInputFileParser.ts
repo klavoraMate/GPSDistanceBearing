@@ -66,7 +66,7 @@ export class JsonGPSTrackInputFileParser implements GenericGPSTrackInputFilePars
                     endReached = true;
             }
 
-            //try parsing only when jsonString contains the necessary values
+            //try parsing only when jsonString contains the necessary values 
             if (jsonString.includes("date")&&jsonString.includes("time")&&jsonString.includes("GPSP")){
                 try {
                     const jsonTrack = JSON.parse(jsonString);

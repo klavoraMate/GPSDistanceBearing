@@ -4,7 +4,7 @@ import { LogLevel } from "./LogLevel";
  * A utility class for logging messages with different log levels.
  */
 export class Logger {
-    private static MAX_STEP: number = 8;
+    private static MAX_STEP: number = 7;
     private static currentStep: number = 0;
 
     /**
