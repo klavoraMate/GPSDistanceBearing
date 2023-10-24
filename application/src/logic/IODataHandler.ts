@@ -6,8 +6,7 @@ import {Calculator} from "./Calculator";
  * An I/O calculator that extends the DistanceBearingCalculator class and uses
  * generic parsers and generators for input and output operations.
  */
-//todo: rename this class
-export class IODistanceBearingCalculator {
+export class IODataHandler {
     private parser: GenericGPSTrackInputFileParser;
     private calculator: Calculator<any, any>;
     private generator: GenericDistanceBearingToFileGenerator;
