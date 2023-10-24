@@ -1,13 +1,13 @@
-import { Calculator } from "./Calculator";
-import { GPSTrack } from "../data/GPSTrack";
-import { DistanceBearing } from "../data/DistanceBearing";
-import { GeoUtils } from "../util/GeoUtils";
+import {Calculator} from "./Calculator";
+import {GPSTrack} from "../data/GPSTrack";
+import {DistanceBearing} from "../data/DistanceBearing";
+import {GeoUtils} from "../util/GeoUtils";
 
 /**
- * An abstract calculator class for calculating the distance and initial bearing
+ * A calculator class for calculating the distance and initial bearing
  * between neighboring GPS tracks.
  */
-export abstract class DistanceBearingCalculator extends Calculator<GPSTrack[], DistanceBearing[]> {
+export class DistanceBearingCalculator extends Calculator<GPSTrack[], DistanceBearing[]> {
     /**
      * Calculates the distance and initial bearing between neighboring GPS tracks.
      *

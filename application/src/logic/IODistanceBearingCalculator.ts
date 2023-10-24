@@ -1,22 +1,24 @@
-import { DistanceBearingCalculator } from "./DistanceBearingCalculator";
-import { GenericGPSTrackInputFileParser } from "../IO/in/GenericGPSTrackInputFileParser";
-import { GenericDistanceBearingToFileGenerator } from "../IO/out/GenericDistanceBearingToFileGenerator";
-import { Logger } from "../util/Logger";
-
+import {GenericGPSTrackInputFileParser} from "../IO/in/GenericGPSTrackInputFileParser";
+import {GenericDistanceBearingToFileGenerator} from "../IO/out/GenericDistanceBearingToFileGenerator";
+import {Logger} from "../util/Logger";
+import {Calculator} from "./Calculator";
 /**
  * An I/O calculator that extends the DistanceBearingCalculator class and uses
  * generic parsers and generators for input and output operations.
  */
-export class IODistanceBearingCalculator extends DistanceBearingCalculator {
+//todo: rename this class
+export class IODistanceBearingCalculator {
     private parser: GenericGPSTrackInputFileParser;
+    private calculator: Calculator<any, any>;
     private generator: GenericDistanceBearingToFileGenerator;
 
     constructor(
         parser: GenericGPSTrackInputFileParser,
+        calculator: Calculator<any, any>,
         generator: GenericDistanceBearingToFileGenerator
     ) {
-        super();
         this.parser = parser;
+        this.calculator = calculator;
         this.generator = generator;
     }
 
@@ -30,9 +32,10 @@ export class IODistanceBearingCalculator extends DistanceBearingCalculator {
             const parsedTracks = await this.parser.parse();
             Logger.step('GPS tracks parsed successfully.');
 
-            Logger.step('Distance and bearing calculation started.');
-            const result = super.calculate(parsedTracks);
-            Logger.step('Distance and bearing calculation ended.');
+
+            Logger.step('Distance and bearing calculation started.')
+            const result = this.calculator.calculate(parsedTracks);
+            Logger.step('Distance and bearing calculation ended.')
 
             Logger.step('Creating Distance and bearing calculation output file.');
             this.generator.generate(result);

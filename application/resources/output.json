@@ -1,0 +1,8188 @@
+{
+  "output": [
+    {
+      "fromGPSP": {
+        "lat": 47.50741,
+        "lon": 18.60759
+      },
+      "distance": 1222,
+      "bearing": 232
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5006,
+        "lon": 18.59482
+      },
+      "distance": 1224,
+      "bearing": 232
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49383,
+        "lon": 18.58198
+      },
+      "distance": 391,
+      "bearing": 258
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49311,
+        "lon": 18.57688
+      },
+      "distance": 410,
+      "bearing": 278
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49364,
+        "lon": 18.57148
+      },
+      "distance": 778,
+      "bearing": 301
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49727,
+        "lon": 18.56262
+      },
+      "distance": 1198,
+      "bearing": 304
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5033,
+        "lon": 18.54941
+      },
+      "distance": 1203,
+      "bearing": 313
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5107,
+        "lon": 18.53773
+      },
+      "distance": 1222,
+      "bearing": 316
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51862,
+        "lon": 18.52645
+      },
+      "distance": 1199,
+      "bearing": 297
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52346,
+        "lon": 18.51218
+      },
+      "distance": 589,
+      "bearing": 303
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52633,
+        "lon": 18.50559
+      },
+      "distance": 380,
+      "bearing": 326
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52918,
+        "lon": 18.50279
+      },
+      "distance": 1268,
+      "bearing": 349
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.54037,
+        "lon": 18.49955
+      },
+      "distance": 1150,
+      "bearing": 338
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.54998,
+        "lon": 18.49389
+      },
+      "distance": 1224,
+      "bearing": 322
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.55865,
+        "lon": 18.48384
+      },
+      "distance": 714,
+      "bearing": 332
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.56431,
+        "lon": 18.47936
+      },
+      "distance": 855,
+      "bearing": 336
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57131,
+        "lon": 18.47465
+      },
+      "distance": 536,
+      "bearing": 311
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57449,
+        "lon": 18.46928
+      },
+      "distance": 513,
+      "bearing": 291
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57617,
+        "lon": 18.46291
+      },
+      "distance": 536,
+      "bearing": 271
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57626,
+        "lon": 18.45577
+      },
+      "distance": 1217,
+      "bearing": 265
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57534,
+        "lon": 18.43961
+      },
+      "distance": 1234,
+      "bearing": 279
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57715,
+        "lon": 18.42338
+      },
+      "distance": 743,
+      "bearing": 284
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57875,
+        "lon": 18.41376
+      },
+      "distance": 328,
+      "bearing": 311
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.58068,
+        "lon": 18.41045
+      },
+      "distance": 487,
+      "bearing": 325
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.58425,
+        "lon": 18.40668
+      },
+      "distance": 1260,
+      "bearing": 327
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.59371,
+        "lon": 18.39742
+      },
+      "distance": 1244,
+      "bearing": 310
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.60091,
+        "lon": 18.38472
+      },
+      "distance": 1228,
+      "bearing": 300
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.60649,
+        "lon": 18.37059
+      },
+      "distance": 1226,
+      "bearing": 299
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61183,
+        "lon": 18.35628
+      },
+      "distance": 1229,
+      "bearing": 299
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6172,
+        "lon": 18.34195
+      },
+      "distance": 1246,
+      "bearing": 296
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62215,
+        "lon": 18.32703
+      },
+      "distance": 1007,
+      "bearing": 286
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6247,
+        "lon": 18.31414
+      },
+      "distance": 1227,
+      "bearing": 276
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6258,
+        "lon": 18.29785
+      },
+      "distance": 1225,
+      "bearing": 268
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6255,
+        "lon": 18.28151
+      },
+      "distance": 1173,
+      "bearing": 280
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62737,
+        "lon": 18.26611
+      },
+      "distance": 1224,
+      "bearing": 295
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63197,
+        "lon": 18.25127
+      },
+      "distance": 1246,
+      "bearing": 295
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63666,
+        "lon": 18.23617
+      },
+      "distance": 1229,
+      "bearing": 294
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64108,
+        "lon": 18.22114
+      },
+      "distance": 1030,
+      "bearing": 303
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64608,
+        "lon": 18.20956
+      },
+      "distance": 1229,
+      "bearing": 309
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65297,
+        "lon": 18.19673
+      },
+      "distance": 1180,
+      "bearing": 306
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65915,
+        "lon": 18.18393
+      },
+      "distance": 1242,
+      "bearing": 285
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66213,
+        "lon": 18.16795
+      },
+      "distance": 1224,
+      "bearing": 282
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66441,
+        "lon": 18.15196
+      },
+      "distance": 1226,
+      "bearing": 289
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66799,
+        "lon": 18.13647
+      },
+      "distance": 1225,
+      "bearing": 292
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67211,
+        "lon": 18.1213
+      },
+      "distance": 980,
+      "bearing": 284
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67423,
+        "lon": 18.10859
+      },
+      "distance": 1222,
+      "bearing": 273
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67484,
+        "lon": 18.09229
+      },
+      "distance": 1225,
+      "bearing": 267
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6742,
+        "lon": 18.07595
+      },
+      "distance": 1226,
+      "bearing": 277
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67547,
+        "lon": 18.05968
+      },
+      "distance": 1227,
+      "bearing": 286
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67856,
+        "lon": 18.04395
+      },
+      "distance": 1225,
+      "bearing": 286
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68155,
+        "lon": 18.0282
+      },
+      "distance": 1248,
+      "bearing": 278
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68312,
+        "lon": 18.01169
+      },
+      "distance": 958,
+      "bearing": 270
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68306,
+        "lon": 17.99889
+      },
+      "distance": 1186,
+      "bearing": 264
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68189,
+        "lon": 17.98314
+      },
+      "distance": 1186,
+      "bearing": 262
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68049,
+        "lon": 17.96743
+      },
+      "distance": 1185,
+      "bearing": 264
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67944,
+        "lon": 17.95168
+      },
+      "distance": 1198,
+      "bearing": 269
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67917,
+        "lon": 17.93568
+      },
+      "distance": 1223,
+      "bearing": 274
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67999,
+        "lon": 17.91939
+      },
+      "distance": 1198,
+      "bearing": 279
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68169,
+        "lon": 17.90359
+      },
+      "distance": 961,
+      "bearing": 280
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68324,
+        "lon": 17.89096
+      },
+      "distance": 1199,
+      "bearing": 277
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68452,
+        "lon": 17.87506
+      },
+      "distance": 1199,
+      "bearing": 270
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68459,
+        "lon": 17.85904
+      },
+      "distance": 1223,
+      "bearing": 269
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68439,
+        "lon": 17.8427
+      },
+      "distance": 1198,
+      "bearing": 273
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68504,
+        "lon": 17.82673
+      },
+      "distance": 1198,
+      "bearing": 279
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68669,
+        "lon": 17.81092
+      },
+      "distance": 690,
+      "bearing": 262
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68579,
+        "lon": 17.8018
+      },
+      "distance": 667,
+      "bearing": 242
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68301,
+        "lon": 17.79391
+      },
+      "distance": 793,
+      "bearing": 223
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67776,
+        "lon": 17.78674
+      },
+      "distance": 1200,
+      "bearing": 226
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6703,
+        "lon": 17.77515
+      },
+      "distance": 1227,
+      "bearing": 245
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66557,
+        "lon": 17.76035
+      },
+      "distance": 1226,
+      "bearing": 247
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66121,
+        "lon": 17.74531
+      },
+      "distance": 1228,
+      "bearing": 245
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65649,
+        "lon": 17.73049
+      },
+      "distance": 1229,
+      "bearing": 240
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65096,
+        "lon": 17.71629
+      },
+      "distance": 1266,
+      "bearing": 237
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64483,
+        "lon": 17.70205
+      },
+      "distance": 1006,
+      "bearing": 237
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63997,
+        "lon": 17.69073
+      },
+      "distance": 1228,
+      "bearing": 238
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63417,
+        "lon": 17.67679
+      },
+      "distance": 562,
+      "bearing": 257
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63302,
+        "lon": 17.66949
+      },
+      "distance": 489,
+      "bearing": 277
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63358,
+        "lon": 17.66302
+      },
+      "distance": 1226,
+      "bearing": 289
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63714,
+        "lon": 17.64754
+      },
+      "distance": 1227,
+      "bearing": 289
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64067,
+        "lon": 17.63203
+      },
+      "distance": 1176,
+      "bearing": 293
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64481,
+        "lon": 17.61759
+      },
+      "distance": 125,
+      "bearing": 309
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64552,
+        "lon": 17.6163
+      },
+      "distance": 58,
+      "bearing": 359
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64604,
+        "lon": 17.61628
+      },
+      "distance": 48,
+      "bearing": 48
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64633,
+        "lon": 17.61675
+      },
+      "distance": 39,
+      "bearing": 88
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64634,
+        "lon": 17.61727
+      },
+      "distance": 46,
+      "bearing": 117
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64615,
+        "lon": 17.61782
+      },
+      "distance": 50,
+      "bearing": 119
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64593,
+        "lon": 17.6184
+      },
+      "distance": 41,
+      "bearing": 47
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64618,
+        "lon": 17.6188
+      },
+      "distance": 510,
+      "bearing": 47
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64929,
+        "lon": 17.62381
+      },
+      "distance": 725,
+      "bearing": 52
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65334,
+        "lon": 17.63139
+      },
+      "distance": 79,
+      "bearing": 37
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65391,
+        "lon": 17.63202
+      },
+      "distance": 36,
+      "bearing": 102
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65384,
+        "lon": 17.63249
+      },
+      "distance": 46,
+      "bearing": 156
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65346,
+        "lon": 17.63274
+      },
+      "distance": 50,
+      "bearing": 183
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65301,
+        "lon": 17.63271
+      },
+      "distance": 93,
+      "bearing": 225
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65242,
+        "lon": 17.63183
+      },
+      "distance": 87,
+      "bearing": 232
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65194,
+        "lon": 17.63091
+      },
+      "distance": 42,
+      "bearing": 42
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65222,
+        "lon": 17.63129
+      },
+      "distance": 39,
+      "bearing": 57
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65241,
+        "lon": 17.63172
+      },
+      "distance": 9,
+      "bearing": 256
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65239,
+        "lon": 17.6316
+      },
+      "distance": 11,
+      "bearing": 323
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65247,
+        "lon": 17.63151
+      },
+      "distance": 4,
+      "bearing": 204
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65244,
+        "lon": 17.63149
+      },
+      "distance": 1,
+      "bearing": 34
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65245,
+        "lon": 17.6315
+      },
+      "distance": 10,
+      "bearing": 312
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65251,
+        "lon": 17.6314
+      },
+      "distance": 4,
+      "bearing": 73
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65252,
+        "lon": 17.63145
+      },
+      "distance": 3,
+      "bearing": 214
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6525,
+        "lon": 17.63143
+      },
+      "distance": 1,
+      "bearing": 326
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65251,
+        "lon": 17.63142
+      },
+      "distance": 4,
+      "bearing": 180
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65247,
+        "lon": 17.63142
+      },
+      "distance": 6,
+      "bearing": 135
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65243,
+        "lon": 17.63148
+      },
+      "distance": 1,
+      "bearing": 180
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65242,
+        "lon": 17.63148
+      },
+      "distance": 13,
+      "bearing": 115
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65237,
+        "lon": 17.63164
+      },
+      "distance": 43,
+      "bearing": 57
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65258,
+        "lon": 17.63212
+      },
+      "distance": 93,
+      "bearing": 40
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65322,
+        "lon": 17.63291
+      },
+      "distance": 47,
+      "bearing": 334
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6536,
+        "lon": 17.63264
+      },
+      "distance": 61,
+      "bearing": 325
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65405,
+        "lon": 17.63218
+      },
+      "distance": 39,
+      "bearing": 245
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6539,
+        "lon": 17.63171
+      },
+      "distance": 323,
+      "bearing": 222
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65174,
+        "lon": 17.62883
+      },
+      "distance": 968,
+      "bearing": 231
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64622,
+        "lon": 17.61883
+      },
+      "distance": 42,
+      "bearing": 231
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64598,
+        "lon": 17.61839
+      },
+      "distance": 39,
+      "bearing": 297
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64614,
+        "lon": 17.61792
+      },
+      "distance": 74,
+      "bearing": 296
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64643,
+        "lon": 17.61703
+      },
+      "distance": 290,
+      "bearing": 281
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64694,
+        "lon": 17.61323
+      },
+      "distance": 1076,
+      "bearing": 306
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65258,
+        "lon": 17.60156
+      },
+      "distance": 1226,
+      "bearing": 306
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65905,
+        "lon": 17.5883
+      },
+      "distance": 882,
+      "bearing": 306
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6637,
+        "lon": 17.57876
+      },
+      "distance": 1227,
+      "bearing": 304
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66993,
+        "lon": 17.56523
+      },
+      "distance": 1189,
+      "bearing": 304
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67587,
+        "lon": 17.55203
+      },
+      "distance": 295,
+      "bearing": 306
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67744,
+        "lon": 17.54886
+      },
+      "distance": 49,
+      "bearing": 356
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67788,
+        "lon": 17.54882
+      },
+      "distance": 50,
+      "bearing": 48
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67818,
+        "lon": 17.54931
+      },
+      "distance": 37,
+      "bearing": 81
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67823,
+        "lon": 17.5498
+      },
+      "distance": 40,
+      "bearing": 120
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67805,
+        "lon": 17.55027
+      },
+      "distance": 97,
+      "bearing": 132
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67747,
+        "lon": 17.55124
+      },
+      "distance": 42,
+      "bearing": 224
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6772,
+        "lon": 17.55085
+      },
+      "distance": 691,
+      "bearing": 249
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67496,
+        "lon": 17.54224
+      },
+      "distance": 1048,
+      "bearing": 251
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67189,
+        "lon": 17.52901
+      },
+      "distance": 1020,
+      "bearing": 243
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66775,
+        "lon": 17.51686
+      },
+      "distance": 730,
+      "bearing": 228
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66333,
+        "lon": 17.50965
+      },
+      "distance": 194,
+      "bearing": 237
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66239,
+        "lon": 17.50747
+      },
+      "distance": 214,
+      "bearing": 262
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66212,
+        "lon": 17.50464
+      },
+      "distance": 1053,
+      "bearing": 273
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6626,
+        "lon": 17.4906
+      },
+      "distance": 354,
+      "bearing": 262
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66216,
+        "lon": 17.48592
+      },
+      "distance": 160,
+      "bearing": 235
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66133,
+        "lon": 17.48417
+      },
+      "distance": 735,
+      "bearing": 229
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65696,
+        "lon": 17.4768
+      },
+      "distance": 1043,
+      "bearing": 250
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65382,
+        "lon": 17.46368
+      },
+      "distance": 196,
+      "bearing": 243
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65302,
+        "lon": 17.46135
+      },
+      "distance": 121,
+      "bearing": 228
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65229,
+        "lon": 17.46015
+      },
+      "distance": 45,
+      "bearing": 316
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65258,
+        "lon": 17.45974
+      },
+      "distance": 193,
+      "bearing": 343
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65424,
+        "lon": 17.45899
+      },
+      "distance": 49,
+      "bearing": 336
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65464,
+        "lon": 17.45872
+      },
+      "distance": 42,
+      "bearing": 224
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65437,
+        "lon": 17.45833
+      },
+      "distance": 41,
+      "bearing": 247
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65423,
+        "lon": 17.45783
+      },
+      "distance": 63,
+      "bearing": 239
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65394,
+        "lon": 17.45711
+      },
+      "distance": 84,
+      "bearing": 214
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65331,
+        "lon": 17.45648
+      },
+      "distance": 82,
+      "bearing": 210
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65267,
+        "lon": 17.45593
+      },
+      "distance": 76,
+      "bearing": 236
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65229,
+        "lon": 17.45509
+      },
+      "distance": 762,
+      "bearing": 253
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65032,
+        "lon": 17.44534
+      },
+      "distance": 318,
+      "bearing": 275
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65057,
+        "lon": 17.44111
+      },
+      "distance": 1206,
+      "bearing": 290
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65429,
+        "lon": 17.42598
+      },
+      "distance": 422,
+      "bearing": 270
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65429,
+        "lon": 17.42035
+      },
+      "distance": 434,
+      "bearing": 250
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65297,
+        "lon": 17.4149
+      },
+      "distance": 1235,
+      "bearing": 226
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64519,
+        "lon": 17.40314
+      },
+      "distance": 633,
+      "bearing": 232
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64165,
+        "lon": 17.39653
+      },
+      "distance": 1194,
+      "bearing": 257
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6392,
+        "lon": 17.38102
+      },
+      "distance": 1219,
+      "bearing": 266
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63852,
+        "lon": 17.36478
+      },
+      "distance": 1207,
+      "bearing": 269
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63833,
+        "lon": 17.34867
+      },
+      "distance": 559,
+      "bearing": 263
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63774,
+        "lon": 17.34126
+      },
+      "distance": 195,
+      "bearing": 239
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63684,
+        "lon": 17.33902
+      },
+      "distance": 1223,
+      "bearing": 229
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62969,
+        "lon": 17.32662
+      },
+      "distance": 1206,
+      "bearing": 238
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.624,
+        "lon": 17.31292
+      },
+      "distance": 1226,
+      "bearing": 246
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61953,
+        "lon": 17.29796
+      },
+      "distance": 2272,
+      "bearing": 256
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61446,
+        "lon": 17.26859
+      },
+      "distance": 659,
+      "bearing": 258
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61322,
+        "lon": 17.25999
+      },
+      "distance": 441,
+      "bearing": 259
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61243,
+        "lon": 17.25423
+      },
+      "distance": 36,
+      "bearing": 256
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61235,
+        "lon": 17.25377
+      },
+      "distance": 40,
+      "bearing": 256
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61226,
+        "lon": 17.25325
+      },
+      "distance": 592,
+      "bearing": 259
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6112,
+        "lon": 17.24551
+      },
+      "distance": 38,
+      "bearing": 277
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61124,
+        "lon": 17.24501
+      },
+      "distance": 50,
+      "bearing": 187
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61079,
+        "lon": 17.24493
+      },
+      "distance": 706,
+      "bearing": 182
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.60445,
+        "lon": 17.24453
+      },
+      "distance": 406,
+      "bearing": 185
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.60081,
+        "lon": 17.24409
+      },
+      "distance": 51,
+      "bearing": 201
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.60038,
+        "lon": 17.24385
+      },
+      "distance": 742,
+      "bearing": 181
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.59371,
+        "lon": 17.24368
+      },
+      "distance": 872,
+      "bearing": 183
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.58588,
+        "lon": 17.24306
+      },
+      "distance": 1194,
+      "bearing": 183
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57516,
+        "lon": 17.24225
+      },
+      "distance": 1207,
+      "bearing": 183
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.56432,
+        "lon": 17.24148
+      },
+      "distance": 1184,
+      "bearing": 171
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.55382,
+        "lon": 17.24407
+      },
+      "distance": 666,
+      "bearing": 160
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.54821,
+        "lon": 17.24717
+      },
+      "distance": 389,
+      "bearing": 148
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.54524,
+        "lon": 17.24992
+      },
+      "distance": 202,
+      "bearing": 156
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.54358,
+        "lon": 17.25101
+      },
+      "distance": 209,
+      "bearing": 139
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.54217,
+        "lon": 17.25285
+      },
+      "distance": 941,
+      "bearing": 161
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.53418,
+        "lon": 17.25699
+      },
+      "distance": 222,
+      "bearing": 157
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.53235,
+        "lon": 17.25816
+      },
+      "distance": 542,
+      "bearing": 146
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52831,
+        "lon": 17.26219
+      },
+      "distance": 500,
+      "bearing": 161
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52406,
+        "lon": 17.26438
+      },
+      "distance": 272,
+      "bearing": 157
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5218,
+        "lon": 17.26578
+      },
+      "distance": 80,
+      "bearing": 189
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52109,
+        "lon": 17.26561
+      },
+      "distance": 89,
+      "bearing": 212
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52041,
+        "lon": 17.26499
+      },
+      "distance": 1007,
+      "bearing": 231
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5147,
+        "lon": 17.25459
+      },
+      "distance": 278,
+      "bearing": 233
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51318,
+        "lon": 17.25165
+      },
+      "distance": 812,
+      "bearing": 239
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5094,
+        "lon": 17.2424
+      },
+      "distance": 324,
+      "bearing": 263
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50906,
+        "lon": 17.23812
+      },
+      "distance": 565,
+      "bearing": 240
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50652,
+        "lon": 17.23161
+      },
+      "distance": 53,
+      "bearing": 210
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50611,
+        "lon": 17.23126
+      },
+      "distance": 166,
+      "bearing": 200
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50471,
+        "lon": 17.23049
+      },
+      "distance": 185,
+      "bearing": 237
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50381,
+        "lon": 17.22842
+      },
+      "distance": 670,
+      "bearing": 245
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50128,
+        "lon": 17.22033
+      },
+      "distance": 845,
+      "bearing": 227
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49606,
+        "lon": 17.21215
+      },
+      "distance": 543,
+      "bearing": 236
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49334,
+        "lon": 17.20615
+      },
+      "distance": 1134,
+      "bearing": 234
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.48736,
+        "lon": 17.19392
+      },
+      "distance": 1163,
+      "bearing": 234
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.48127,
+        "lon": 17.18133
+      },
+      "distance": 961,
+      "bearing": 234
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4762,
+        "lon": 17.17097
+      },
+      "distance": 326,
+      "bearing": 233
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47444,
+        "lon": 17.1675
+      },
+      "distance": 41,
+      "bearing": 259
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47437,
+        "lon": 17.16696
+      },
+      "distance": 39,
+      "bearing": 303
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47456,
+        "lon": 17.16653
+      },
+      "distance": 276,
+      "bearing": 315
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47631,
+        "lon": 17.16392
+      },
+      "distance": 954,
+      "bearing": 285
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47855,
+        "lon": 17.15166
+      },
+      "distance": 216,
+      "bearing": 278
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47882,
+        "lon": 17.14881
+      },
+      "distance": 149,
+      "bearing": 255
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47847,
+        "lon": 17.1469
+      },
+      "distance": 257,
+      "bearing": 250
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47768,
+        "lon": 17.14369
+      },
+      "distance": 419,
+      "bearing": 260
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47705,
+        "lon": 17.13819
+      },
+      "distance": 364,
+      "bearing": 235
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47518,
+        "lon": 17.13422
+      },
+      "distance": 377,
+      "bearing": 227
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47286,
+        "lon": 17.13057
+      },
+      "distance": 43,
+      "bearing": 247
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47271,
+        "lon": 17.13004
+      },
+      "distance": 993,
+      "bearing": 236
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46774,
+        "lon": 17.11906
+      },
+      "distance": 1089,
+      "bearing": 231
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46163,
+        "lon": 17.10774
+      },
+      "distance": 360,
+      "bearing": 233
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.45969,
+        "lon": 17.10391
+      },
+      "distance": 995,
+      "bearing": 252
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.45692,
+        "lon": 17.09133
+      },
+      "distance": 1179,
+      "bearing": 218
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.44859,
+        "lon": 17.08163
+      },
+      "distance": 1252,
+      "bearing": 217
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.43959,
+        "lon": 17.07163
+      },
+      "distance": 1219,
+      "bearing": 212
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.43032,
+        "lon": 17.06299
+      },
+      "distance": 529,
+      "bearing": 202
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42589,
+        "lon": 17.06041
+      },
+      "distance": 121,
+      "bearing": 213
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42498,
+        "lon": 17.05953
+      },
+      "distance": 100,
+      "bearing": 237
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42449,
+        "lon": 17.05841
+      },
+      "distance": 118,
+      "bearing": 257
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42425,
+        "lon": 17.05688
+      },
+      "distance": 1041,
+      "bearing": 259
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42245,
+        "lon": 17.0433
+      },
+      "distance": 715,
+      "bearing": 265
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42193,
+        "lon": 17.03383
+      },
+      "distance": 522,
+      "bearing": 282
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42288,
+        "lon": 17.02704
+      },
+      "distance": 379,
+      "bearing": 255
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42201,
+        "lon": 17.02217
+      },
+      "distance": 818,
+      "bearing": 233
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.41758,
+        "lon": 17.01349
+      },
+      "distance": 869,
+      "bearing": 232
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4128,
+        "lon": 17.00435
+      },
+      "distance": 76,
+      "bearing": 215
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.41224,
+        "lon": 17.00378
+      },
+      "distance": 382,
+      "bearing": 210
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.40925,
+        "lon": 17.00128
+      },
+      "distance": 1160,
+      "bearing": 230
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.40248,
+        "lon": 16.98955
+      },
+      "distance": 103,
+      "bearing": 222
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.40179,
+        "lon": 16.98864
+      },
+      "distance": 1147,
+      "bearing": 227
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.3947,
+        "lon": 16.97758
+      },
+      "distance": 205,
+      "bearing": 211
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.39312,
+        "lon": 16.97618
+      },
+      "distance": 536,
+      "bearing": 239
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.39061,
+        "lon": 16.9701
+      },
+      "distance": 400,
+      "bearing": 248
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.38926,
+        "lon": 16.96518
+      },
+      "distance": 420,
+      "bearing": 237
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.38718,
+        "lon": 16.96052
+      },
+      "distance": 1122,
+      "bearing": 252
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.38402,
+        "lon": 16.94637
+      },
+      "distance": 591,
+      "bearing": 253
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.38251,
+        "lon": 16.93885
+      },
+      "distance": 236,
+      "bearing": 264
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.38229,
+        "lon": 16.93573
+      },
+      "distance": 474,
+      "bearing": 240
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.38018,
+        "lon": 16.93026
+      },
+      "distance": 272,
+      "bearing": 219
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.37827,
+        "lon": 16.92801
+      },
+      "distance": 577,
+      "bearing": 216
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.37405,
+        "lon": 16.92354
+      },
+      "distance": 624,
+      "bearing": 237
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.37101,
+        "lon": 16.91658
+      },
+      "distance": 1043,
+      "bearing": 226
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.36445,
+        "lon": 16.90669
+      },
+      "distance": 762,
+      "bearing": 238
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.36077,
+        "lon": 16.89815
+      },
+      "distance": 35,
+      "bearing": 259
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.36071,
+        "lon": 16.8977
+      },
+      "distance": 63,
+      "bearing": 219
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.36027,
+        "lon": 16.89717
+      },
+      "distance": 787,
+      "bearing": 239
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.35664,
+        "lon": 16.8882
+      },
+      "distance": 810,
+      "bearing": 234
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.35235,
+        "lon": 16.87951
+      },
+      "distance": 58,
+      "bearing": 187
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.35183,
+        "lon": 16.87942
+      },
+      "distance": 95,
+      "bearing": 188
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.35098,
+        "lon": 16.87924
+      },
+      "distance": 802,
+      "bearing": 218
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.34526,
+        "lon": 16.87276
+      },
+      "distance": 802,
+      "bearing": 218
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.33958,
+        "lon": 16.86621
+      },
+      "distance": 248,
+      "bearing": 205
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.33756,
+        "lon": 16.86482
+      },
+      "distance": 773,
+      "bearing": 222
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.33243,
+        "lon": 16.85789
+      },
+      "distance": 573,
+      "bearing": 204
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.32771,
+        "lon": 16.85483
+      },
+      "distance": 818,
+      "bearing": 229
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.32287,
+        "lon": 16.84666
+      },
+      "distance": 599,
+      "bearing": 213
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.31837,
+        "lon": 16.8423
+      },
+      "distance": 1184,
+      "bearing": 193
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.30801,
+        "lon": 16.8387
+      },
+      "distance": 707,
+      "bearing": 190
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.30176,
+        "lon": 16.837
+      },
+      "distance": 489,
+      "bearing": 213
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.29807,
+        "lon": 16.83347
+      },
+      "distance": 1222,
+      "bearing": 235
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.29176,
+        "lon": 16.8202
+      },
+      "distance": 1199,
+      "bearing": 221
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.28362,
+        "lon": 16.80978
+      },
+      "distance": 905,
+      "bearing": 216
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.27703,
+        "lon": 16.80273
+      },
+      "distance": 611,
+      "bearing": 238
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.2741,
+        "lon": 16.79588
+      },
+      "distance": 633,
+      "bearing": 257
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.27282,
+        "lon": 16.78771
+      },
+      "distance": 1226,
+      "bearing": 270
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.2729,
+        "lon": 16.77146
+      },
+      "distance": 522,
+      "bearing": 275
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.27328,
+        "lon": 16.76456
+      },
+      "distance": 297,
+      "bearing": 284
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.27391,
+        "lon": 16.76073
+      },
+      "distance": 140,
+      "bearing": 258
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.27364,
+        "lon": 16.75892
+      },
+      "distance": 185,
+      "bearing": 239
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.27278,
+        "lon": 16.75682
+      },
+      "distance": 909,
+      "bearing": 242
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.26896,
+        "lon": 16.74617
+      },
+      "distance": 1173,
+      "bearing": 245
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.26446,
+        "lon": 16.73211
+      },
+      "distance": 726,
+      "bearing": 232
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.26041,
+        "lon": 16.72457
+      },
+      "distance": 1105,
+      "bearing": 257
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25816,
+        "lon": 16.71031
+      },
+      "distance": 155,
+      "bearing": 258
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25788,
+        "lon": 16.7083
+      },
+      "distance": 705,
+      "bearing": 254
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25617,
+        "lon": 16.6993
+      },
+      "distance": 131,
+      "bearing": 228
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25538,
+        "lon": 16.69802
+      },
+      "distance": 695,
+      "bearing": 268
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25515,
+        "lon": 16.68882
+      },
+      "distance": 885,
+      "bearing": 263
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25415,
+        "lon": 16.67719
+      },
+      "distance": 922,
+      "bearing": 245
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25061,
+        "lon": 16.66614
+      },
+      "distance": 814,
+      "bearing": 257
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24898,
+        "lon": 16.65563
+      },
+      "distance": 118,
+      "bearing": 218
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24814,
+        "lon": 16.65468
+      },
+      "distance": 100,
+      "bearing": 196
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24728,
+        "lon": 16.65431
+      },
+      "distance": 519,
+      "bearing": 186
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24264,
+        "lon": 16.6536
+      },
+      "distance": 55,
+      "bearing": 216
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24224,
+        "lon": 16.65317
+      },
+      "distance": 46,
+      "bearing": 143
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24191,
+        "lon": 16.65354
+      },
+      "distance": 49,
+      "bearing": 155
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24151,
+        "lon": 16.65381
+      },
+      "distance": 510,
+      "bearing": 162
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.23714,
+        "lon": 16.65588
+      },
+      "distance": 512,
+      "bearing": 169
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.23262,
+        "lon": 16.65714
+      },
+      "distance": 101,
+      "bearing": 192
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.23173,
+        "lon": 16.65685
+      },
+      "distance": 48,
+      "bearing": 213
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.23137,
+        "lon": 16.65651
+      },
+      "distance": 466,
+      "bearing": 183
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.22719,
+        "lon": 16.65614
+      },
+      "distance": 559,
+      "bearing": 162
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.22241,
+        "lon": 16.65844
+      },
+      "distance": 170,
+      "bearing": 195
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.22093,
+        "lon": 16.65787
+      },
+      "distance": 39,
+      "bearing": 225
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.22068,
+        "lon": 16.6575
+      },
+      "distance": 63,
+      "bearing": 188
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.22012,
+        "lon": 16.65739
+      },
+      "distance": 439,
+      "bearing": 205
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21655,
+        "lon": 16.65491
+      },
+      "distance": 204,
+      "bearing": 231
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.2154,
+        "lon": 16.6528
+      },
+      "distance": 671,
+      "bearing": 243
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21262,
+        "lon": 16.64492
+      },
+      "distance": 551,
+      "bearing": 242
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21032,
+        "lon": 16.63846
+      },
+      "distance": 40,
+      "bearing": 242
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21015,
+        "lon": 16.63799
+      },
+      "distance": 552,
+      "bearing": 251
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.20851,
+        "lon": 16.63109
+      },
+      "distance": 581,
+      "bearing": 275
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.20893,
+        "lon": 16.62342
+      },
+      "distance": 344,
+      "bearing": 266
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.20871,
+        "lon": 16.61888
+      },
+      "distance": 113,
+      "bearing": 256
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.20846,
+        "lon": 16.61743
+      },
+      "distance": 49,
+      "bearing": 2
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.2089,
+        "lon": 16.61745
+      },
+      "distance": 634,
+      "bearing": 17
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21434,
+        "lon": 16.61997
+      },
+      "distance": 126,
+      "bearing": 358
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21547,
+        "lon": 16.6199
+      },
+      "distance": 74,
+      "bearing": 355
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21613,
+        "lon": 16.61981
+      },
+      "distance": 36,
+      "bearing": 274
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21615,
+        "lon": 16.61934
+      },
+      "distance": 57,
+      "bearing": 263
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21609,
+        "lon": 16.61859
+      },
+      "distance": 37,
+      "bearing": 111
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21597,
+        "lon": 16.61904
+      },
+      "distance": 36,
+      "bearing": 114
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21584,
+        "lon": 16.61947
+      },
+      "distance": 40,
+      "bearing": 224
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21558,
+        "lon": 16.6191
+      },
+      "distance": 38,
+      "bearing": 263
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21554,
+        "lon": 16.6186
+      },
+      "distance": 8,
+      "bearing": 303
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21558,
+        "lon": 16.61851
+      },
+      "distance": 6,
+      "bearing": 195
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21553,
+        "lon": 16.61849
+      },
+      "distance": 0,
+      "bearing": 0
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21553,
+        "lon": 16.61849
+      },
+      "distance": 6,
+      "bearing": 15
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21558,
+        "lon": 16.61851
+      },
+      "distance": 11,
+      "bearing": 184
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21548,
+        "lon": 16.6185
+      },
+      "distance": 1,
+      "bearing": 270
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21548,
+        "lon": 16.61849
+      },
+      "distance": 2,
+      "bearing": 126
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21547,
+        "lon": 16.61851
+      },
+      "distance": 1,
+      "bearing": 90
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21547,
+        "lon": 16.61852
+      },
+      "distance": 3,
+      "bearing": 296
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21548,
+        "lon": 16.61849
+      },
+      "distance": 1,
+      "bearing": 146
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21547,
+        "lon": 16.6185
+      },
+      "distance": 6,
+      "bearing": 352
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21552,
+        "lon": 16.61849
+      },
+      "distance": 2,
+      "bearing": 270
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21552,
+        "lon": 16.61847
+      },
+      "distance": 12,
+      "bearing": 10
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21563,
+        "lon": 16.6185
+      },
+      "distance": 50,
+      "bearing": 3
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21608,
+        "lon": 16.61853
+      },
+      "distance": 37,
+      "bearing": 81
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21613,
+        "lon": 16.61901
+      },
+      "distance": 47,
+      "bearing": 94
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.2161,
+        "lon": 16.61963
+      },
+      "distance": 48,
+      "bearing": 163
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21569,
+        "lon": 16.61981
+      },
+      "distance": 443,
+      "bearing": 185
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21172,
+        "lon": 16.61926
+      },
+      "distance": 385,
+      "bearing": 205
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.20859,
+        "lon": 16.61709
+      },
+      "distance": 50,
+      "bearing": 164
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.20816,
+        "lon": 16.61727
+      },
+      "distance": 355,
+      "bearing": 74
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.20905,
+        "lon": 16.62178
+      },
+      "distance": 826,
+      "bearing": 93
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.20867,
+        "lon": 16.6327
+      },
+      "distance": 437,
+      "bearing": 68
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21014,
+        "lon": 16.63806
+      },
+      "distance": 505,
+      "bearing": 62
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21225,
+        "lon": 16.64398
+      },
+      "distance": 547,
+      "bearing": 62
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21453,
+        "lon": 16.65039
+      },
+      "distance": 361,
+      "bearing": 58
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21624,
+        "lon": 16.65446
+      },
+      "distance": 192,
+      "bearing": 34
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.21767,
+        "lon": 16.65588
+      },
+      "distance": 318,
+      "bearing": 24
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.22029,
+        "lon": 16.65757
+      },
+      "distance": 44,
+      "bearing": 41
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.22059,
+        "lon": 16.65795
+      },
+      "distance": 52,
+      "bearing": 3
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.22106,
+        "lon": 16.65799
+      },
+      "distance": 185,
+      "bearing": 13
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.22268,
+        "lon": 16.65856
+      },
+      "distance": 147,
+      "bearing": 349
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.22398,
+        "lon": 16.65819
+      },
+      "distance": 564,
+      "bearing": 342
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.22881,
+        "lon": 16.6559
+      },
+      "distance": 259,
+      "bearing": 15
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.23106,
+        "lon": 16.65678
+      },
+      "distance": 50,
+      "bearing": 28
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.23146,
+        "lon": 16.65709
+      },
+      "distance": 863,
+      "bearing": 350
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.23911,
+        "lon": 16.65513
+      },
+      "distance": 342,
+      "bearing": 341
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24203,
+        "lon": 16.65369
+      },
+      "distance": 60,
+      "bearing": 4
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24257,
+        "lon": 16.65375
+      },
+      "distance": 55,
+      "bearing": 14
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24305,
+        "lon": 16.65392
+      },
+      "distance": 206,
+      "bearing": 10
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24487,
+        "lon": 16.6544
+      },
+      "distance": 49,
+      "bearing": 357
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24531,
+        "lon": 16.65437
+      },
+      "distance": 306,
+      "bearing": 4
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24805,
+        "lon": 16.65468
+      },
+      "distance": 105,
+      "bearing": 35
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24883,
+        "lon": 16.65547
+      },
+      "distance": 86,
+      "bearing": 52
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.2493,
+        "lon": 16.65637
+      },
+      "distance": 43,
+      "bearing": 84
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24934,
+        "lon": 16.65693
+      },
+      "distance": 43,
+      "bearing": 116
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24917,
+        "lon": 16.65744
+      },
+      "distance": 43,
+      "bearing": 145
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24885,
+        "lon": 16.65777
+      },
+      "distance": 56,
+      "bearing": 182
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24835,
+        "lon": 16.65775
+      },
+      "distance": 44,
+      "bearing": 220
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24805,
+        "lon": 16.65738
+      },
+      "distance": 62,
+      "bearing": 253
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24789,
+        "lon": 16.6566
+      },
+      "distance": 149,
+      "bearing": 269
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24786,
+        "lon": 16.65462
+      },
+      "distance": 141,
+      "bearing": 292
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24833,
+        "lon": 16.65289
+      },
+      "distance": 233,
+      "bearing": 298
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24932,
+        "lon": 16.65017
+      },
+      "distance": 688,
+      "bearing": 282
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25056,
+        "lon": 16.64124
+      },
+      "distance": 787,
+      "bearing": 295
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25357,
+        "lon": 16.63181
+      },
+      "distance": 71,
+      "bearing": 280
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25368,
+        "lon": 16.63088
+      },
+      "distance": 41,
+      "bearing": 305
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25389,
+        "lon": 16.63043
+      },
+      "distance": 43,
+      "bearing": 276
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25393,
+        "lon": 16.62986
+      },
+      "distance": 390,
+      "bearing": 287
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25494,
+        "lon": 16.62491
+      },
+      "distance": 346,
+      "bearing": 263
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25454,
+        "lon": 16.62036
+      },
+      "distance": 158,
+      "bearing": 251
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25407,
+        "lon": 16.61839
+      },
+      "distance": 47,
+      "bearing": 331
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25444,
+        "lon": 16.61809
+      },
+      "distance": 51,
+      "bearing": 11
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25489,
+        "lon": 16.61822
+      },
+      "distance": 64,
+      "bearing": 72
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25507,
+        "lon": 16.61903
+      },
+      "distance": 3,
+      "bearing": 193
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25504,
+        "lon": 16.61902
+      },
+      "distance": 12,
+      "bearing": 338
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25514,
+        "lon": 16.61896
+      },
+      "distance": 7,
+      "bearing": 354
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.2552,
+        "lon": 16.61895
+      },
+      "distance": 2,
+      "bearing": 90
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.2552,
+        "lon": 16.61897
+      },
+      "distance": 2,
+      "bearing": 270
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.2552,
+        "lon": 16.61895
+      },
+      "distance": 3,
+      "bearing": 290
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25521,
+        "lon": 16.61891
+      },
+      "distance": 1,
+      "bearing": 270
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25521,
+        "lon": 16.6189
+      },
+      "distance": 3,
+      "bearing": 146
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25519,
+        "lon": 16.61892
+      },
+      "distance": 5,
+      "bearing": 146
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25515,
+        "lon": 16.61896
+      },
+      "distance": 4,
+      "bearing": 156
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25512,
+        "lon": 16.61898
+      },
+      "distance": 1,
+      "bearing": 90
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25512,
+        "lon": 16.61899
+      },
+      "distance": 50,
+      "bearing": 177
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25467,
+        "lon": 16.61903
+      },
+      "distance": 38,
+      "bearing": 249
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25455,
+        "lon": 16.61856
+      },
+      "distance": 47,
+      "bearing": 316
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25485,
+        "lon": 16.61813
+      },
+      "distance": 53,
+      "bearing": 177
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25437,
+        "lon": 16.61817
+      },
+      "distance": 46,
+      "bearing": 204
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25399,
+        "lon": 16.61792
+      },
+      "distance": 158,
+      "bearing": 253
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25358,
+        "lon": 16.61591
+      },
+      "distance": 41,
+      "bearing": 235
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25337,
+        "lon": 16.61546
+      },
+      "distance": 39,
+      "bearing": 131
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25314,
+        "lon": 16.61585
+      },
+      "distance": 39,
+      "bearing": 54
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25335,
+        "lon": 16.61627
+      },
+      "distance": 353,
+      "bearing": 71
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25438,
+        "lon": 16.6207
+      },
+      "distance": 59,
+      "bearing": 62
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25463,
+        "lon": 16.62139
+      },
+      "distance": 288,
+      "bearing": 84
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.2549,
+        "lon": 16.62518
+      },
+      "distance": 399,
+      "bearing": 107
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25383,
+        "lon": 16.63022
+      },
+      "distance": 39,
+      "bearing": 115
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25368,
+        "lon": 16.63069
+      },
+      "distance": 40,
+      "bearing": 98
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25363,
+        "lon": 16.63121
+      },
+      "distance": 830,
+      "bearing": 114
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25057,
+        "lon": 16.64124
+      },
+      "distance": 283,
+      "bearing": 109
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24976,
+        "lon": 16.64479
+      },
+      "distance": 72,
+      "bearing": 97
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24968,
+        "lon": 16.64573
+      },
+      "distance": 439,
+      "bearing": 100
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24897,
+        "lon": 16.65145
+      },
+      "distance": 298,
+      "bearing": 116
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24778,
+        "lon": 16.65499
+      },
+      "distance": 155,
+      "bearing": 85
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.24789,
+        "lon": 16.65704
+      },
+      "distance": 1152,
+      "bearing": 67
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25196,
+        "lon": 16.67108
+      },
+      "distance": 919,
+      "bearing": 68
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25507,
+        "lon": 16.68236
+      },
+      "distance": 1121,
+      "bearing": 89
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25533,
+        "lon": 16.69721
+      },
+      "distance": 83,
+      "bearing": 81
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25545,
+        "lon": 16.6983
+      },
+      "distance": 51,
+      "bearing": 42
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25579,
+        "lon": 16.69875
+      },
+      "distance": 75,
+      "bearing": 45
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25627,
+        "lon": 16.69945
+      },
+      "distance": 780,
+      "bearing": 75
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.25812,
+        "lon": 16.70942
+      },
+      "distance": 1216,
+      "bearing": 77
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.26057,
+        "lon": 16.72513
+      },
+      "distance": 127,
+      "bearing": 59
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.26115,
+        "lon": 16.72658
+      },
+      "distance": 1056,
+      "bearing": 54
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.2667,
+        "lon": 16.73793
+      },
+      "distance": 169,
+      "bearing": 68
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.26726,
+        "lon": 16.74001
+      },
+      "distance": 1217,
+      "bearing": 66
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.27171,
+        "lon": 16.75475
+      },
+      "distance": 475,
+      "bearing": 59
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.2739,
+        "lon": 16.76016
+      },
+      "distance": 210,
+      "bearing": 96
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.27369,
+        "lon": 16.76293
+      },
+      "distance": 1219,
+      "bearing": 95
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.27278,
+        "lon": 16.77903
+      },
+      "distance": 1220,
+      "bearing": 85
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.27376,
+        "lon": 16.79513
+      },
+      "distance": 566,
+      "bearing": 60
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.27627,
+        "lon": 16.80165
+      },
+      "distance": 686,
+      "bearing": 41
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.28096,
+        "lon": 16.80756
+      },
+      "distance": 1253,
+      "bearing": 37
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.29001,
+        "lon": 16.81746
+      },
+      "distance": 1232,
+      "bearing": 55
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.29642,
+        "lon": 16.83078
+      },
+      "distance": 222,
+      "bearing": 50
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.29769,
+        "lon": 16.83305
+      },
+      "distance": 491,
+      "bearing": 36
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.30128,
+        "lon": 16.83685
+      },
+      "distance": 539,
+      "bearing": 15
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.30597,
+        "lon": 16.83864
+      },
+      "distance": 1014,
+      "bearing": 10
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.31495,
+        "lon": 16.84098
+      },
+      "distance": 266,
+      "bearing": 17
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.31723,
+        "lon": 16.84204
+      },
+      "distance": 247,
+      "bearing": 14
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.31938,
+        "lon": 16.84286
+      },
+      "distance": 860,
+      "bearing": 37
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.32557,
+        "lon": 16.8497
+      },
+      "distance": 51,
+      "bearing": 60
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.3258,
+        "lon": 16.85029
+      },
+      "distance": 242,
+      "bearing": 63
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.32677,
+        "lon": 16.85316
+      },
+      "distance": 226,
+      "bearing": 47
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.32817,
+        "lon": 16.85534
+      },
+      "distance": 1029,
+      "bearing": 28
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.33631,
+        "lon": 16.86184
+      },
+      "distance": 332,
+      "bearing": 53
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.33812,
+        "lon": 16.86534
+      },
+      "distance": 1211,
+      "bearing": 36
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.34697,
+        "lon": 16.8747
+      },
+      "distance": 583,
+      "bearing": 36
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.3512,
+        "lon": 16.87927
+      },
+      "distance": 147,
+      "bearing": 11
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.3525,
+        "lon": 16.87965
+      },
+      "distance": 307,
+      "bearing": 53
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.35416,
+        "lon": 16.8829
+      },
+      "distance": 948,
+      "bearing": 55
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.35899,
+        "lon": 16.89327
+      },
+      "distance": 356,
+      "bearing": 64
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.36038,
+        "lon": 16.89753
+      },
+      "distance": 44,
+      "bearing": 89
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.36039,
+        "lon": 16.89811
+      },
+      "distance": 154,
+      "bearing": 42
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.36142,
+        "lon": 16.89947
+      },
+      "distance": 1122,
+      "bearing": 56
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.36699,
+        "lon": 16.91189
+      },
+      "distance": 962,
+      "bearing": 46
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.37304,
+        "lon": 16.92103
+      },
+      "distance": 437,
+      "bearing": 50
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.37555,
+        "lon": 16.92549
+      },
+      "distance": 268,
+      "bearing": 35
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.37753,
+        "lon": 16.92752
+      },
+      "distance": 232,
+      "bearing": 27
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.37938,
+        "lon": 16.92894
+      },
+      "distance": 266,
+      "bearing": 49
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.38094,
+        "lon": 16.93162
+      },
+      "distance": 432,
+      "bearing": 65
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.38256,
+        "lon": 16.93684
+      },
+      "distance": 1222,
+      "bearing": 76
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.38518,
+        "lon": 16.9526
+      },
+      "distance": 510,
+      "bearing": 68
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.38689,
+        "lon": 16.95888
+      },
+      "distance": 456,
+      "bearing": 63
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.38872,
+        "lon": 16.9643
+      },
+      "distance": 203,
+      "bearing": 53
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.38982,
+        "lon": 16.96645
+      },
+      "distance": 846,
+      "bearing": 62
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.39334,
+        "lon": 16.97641
+      },
+      "distance": 1147,
+      "bearing": 44
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.40077,
+        "lon": 16.98698
+      },
+      "distance": 1231,
+      "bearing": 48
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.40813,
+        "lon": 16.9992
+      },
+      "distance": 362,
+      "bearing": 44
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.41048,
+        "lon": 17.00253
+      },
+      "distance": 314,
+      "bearing": 28
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.41298,
+        "lon": 17.00448
+      },
+      "distance": 1018,
+      "bearing": 53
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.41853,
+        "lon": 17.01524
+      },
+      "distance": 716,
+      "bearing": 54
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42228,
+        "lon": 17.02298
+      },
+      "distance": 461,
+      "bearing": 81
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4229,
+        "lon": 17.02904
+      },
+      "distance": 550,
+      "bearing": 102
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42189,
+        "lon": 17.03619
+      },
+      "distance": 1028,
+      "bearing": 80
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42351,
+        "lon": 17.04964
+      },
+      "distance": 345,
+      "bearing": 71
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4245,
+        "lon": 17.05399
+      },
+      "distance": 342,
+      "bearing": 89
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42457,
+        "lon": 17.05853
+      },
+      "distance": 111,
+      "bearing": 51
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4252,
+        "lon": 17.05968
+      },
+      "distance": 146,
+      "bearing": 28
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.42636,
+        "lon": 17.06059
+      },
+      "distance": 1225,
+      "bearing": 27
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.43621,
+        "lon": 17.06788
+      },
+      "distance": 1255,
+      "bearing": 37
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.44525,
+        "lon": 17.07788
+      },
+      "distance": 1232,
+      "bearing": 37
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4541,
+        "lon": 17.08773
+      },
+      "distance": 480,
+      "bearing": 43
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.45728,
+        "lon": 17.09205
+      },
+      "distance": 1213,
+      "bearing": 68
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46128,
+        "lon": 17.10706
+      },
+      "distance": 859,
+      "bearing": 50
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46627,
+        "lon": 17.11579
+      },
+      "distance": 1228,
+      "bearing": 56
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47248,
+        "lon": 17.1293
+      },
+      "distance": 342,
+      "bearing": 55
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47424,
+        "lon": 17.13303
+      },
+      "distance": 416,
+      "bearing": 48
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47675,
+        "lon": 17.13714
+      },
+      "distance": 320,
+      "bearing": 71
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4777,
+        "lon": 17.14116
+      },
+      "distance": 700,
+      "bearing": 80
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47882,
+        "lon": 17.15033
+      },
+      "distance": 1126,
+      "bearing": 106
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47601,
+        "lon": 17.16472
+      },
+      "distance": 110,
+      "bearing": 136
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4753,
+        "lon": 17.16573
+      },
+      "distance": 129,
+      "bearing": 138
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47444,
+        "lon": 17.16688
+      },
+      "distance": 41,
+      "bearing": 92
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47443,
+        "lon": 17.16742
+      },
+      "distance": 176,
+      "bearing": 57
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4753,
+        "lon": 17.16937
+      },
+      "distance": 872,
+      "bearing": 53
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.48006,
+        "lon": 17.17859
+      },
+      "distance": 1024,
+      "bearing": 55
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.48539,
+        "lon": 17.1897
+      },
+      "distance": 1015,
+      "bearing": 54
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4907,
+        "lon": 17.20068
+      },
+      "distance": 1172,
+      "bearing": 56
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49663,
+        "lon": 17.21357
+      },
+      "distance": 196,
+      "bearing": 50
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49775,
+        "lon": 17.21558
+      },
+      "distance": 574,
+      "bearing": 43
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50154,
+        "lon": 17.22077
+      },
+      "distance": 794,
+      "bearing": 64
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50469,
+        "lon": 17.23025
+      },
+      "distance": 53,
+      "bearing": 46
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50502,
+        "lon": 17.23075
+      },
+      "distance": 56,
+      "bearing": 20
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50549,
+        "lon": 17.231
+      },
+      "distance": 122,
+      "bearing": 19
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50653,
+        "lon": 17.23153
+      },
+      "distance": 218,
+      "bearing": 58
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50756,
+        "lon": 17.234
+      },
+      "distance": 461,
+      "bearing": 64
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5094,
+        "lon": 17.2395
+      },
+      "distance": 426,
+      "bearing": 82
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50994,
+        "lon": 17.24511
+      },
+      "distance": 937,
+      "bearing": 52
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51508,
+        "lon": 17.25499
+      },
+      "distance": 1058,
+      "bearing": 49
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52129,
+        "lon": 17.26566
+      },
+      "distance": 67,
+      "bearing": 3
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52189,
+        "lon": 17.26571
+      },
+      "distance": 113,
+      "bearing": 343
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52286,
+        "lon": 17.26527
+      },
+      "distance": 577,
+      "bearing": 338
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52769,
+        "lon": 17.26245
+      },
+      "distance": 291,
+      "bearing": 334
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.53005,
+        "lon": 17.26078
+      },
+      "distance": 455,
+      "bearing": 325
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.53339,
+        "lon": 17.25729
+      },
+      "distance": 933,
+      "bearing": 342
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.54135,
+        "lon": 17.25337
+      },
+      "distance": 216,
+      "bearing": 330
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.54304,
+        "lon": 17.25194
+      },
+      "distance": 164,
+      "bearing": 316
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5441,
+        "lon": 17.25043
+      },
+      "distance": 1008,
+      "bearing": 335
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.55231,
+        "lon": 17.24472
+      },
+      "distance": 1209,
+      "bearing": 349
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.56299,
+        "lon": 17.24168
+      },
+      "distance": 1192,
+      "bearing": 1
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57371,
+        "lon": 17.24208
+      },
+      "distance": 1203,
+      "bearing": 3
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.58451,
+        "lon": 17.24292
+      },
+      "distance": 751,
+      "bearing": 3
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.59126,
+        "lon": 17.24341
+      },
+      "distance": 797,
+      "bearing": 3
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.59842,
+        "lon": 17.24398
+      },
+      "distance": 252,
+      "bearing": 359
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.60069,
+        "lon": 17.24393
+      },
+      "distance": 61,
+      "bearing": 17
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.60121,
+        "lon": 17.24417
+      },
+      "distance": 708,
+      "bearing": 3
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.60757,
+        "lon": 17.24471
+      },
+      "distance": 344,
+      "bearing": 2
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61066,
+        "lon": 17.24484
+      },
+      "distance": 53,
+      "bearing": 6
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61113,
+        "lon": 17.24491
+      },
+      "distance": 40,
+      "bearing": 84
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61117,
+        "lon": 17.24544
+      },
+      "distance": 314,
+      "bearing": 83
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61151,
+        "lon": 17.2496
+      },
+      "distance": 39,
+      "bearing": 68
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61164,
+        "lon": 17.25008
+      },
+      "distance": 294,
+      "bearing": 75
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61232,
+        "lon": 17.25387
+      },
+      "distance": 18,
+      "bearing": 79
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61235,
+        "lon": 17.25411
+      },
+      "distance": 39,
+      "bearing": 75
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61244,
+        "lon": 17.25461
+      },
+      "distance": 680,
+      "bearing": 78
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61372,
+        "lon": 17.26348
+      },
+      "distance": 1197,
+      "bearing": 78
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61595,
+        "lon": 17.2791
+      },
+      "distance": 1211,
+      "bearing": 76
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61859,
+        "lon": 17.29478
+      },
+      "distance": 1218,
+      "bearing": 66
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62301,
+        "lon": 17.30965
+      },
+      "distance": 1239,
+      "bearing": 60
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6285,
+        "lon": 17.32403
+      },
+      "distance": 1217,
+      "bearing": 51
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63545,
+        "lon": 17.33658
+      },
+      "distance": 474,
+      "bearing": 55
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6379,
+        "lon": 17.34176
+      },
+      "distance": 341,
+      "bearing": 83
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63829,
+        "lon": 17.34628
+      },
+      "distance": 1231,
+      "bearing": 89
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63848,
+        "lon": 17.36271
+      },
+      "distance": 1229,
+      "bearing": 88
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63882,
+        "lon": 17.37911
+      },
+      "distance": 1255,
+      "bearing": 78
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64121,
+        "lon": 17.39548
+      },
+      "distance": 463,
+      "bearing": 58
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64341,
+        "lon": 17.40073
+      },
+      "distance": 1224,
+      "bearing": 44
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65138,
+        "lon": 17.412
+      },
+      "distance": 427,
+      "bearing": 57
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65348,
+        "lon": 17.41678
+      },
+      "distance": 404,
+      "bearing": 76
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65434,
+        "lon": 17.42202
+      },
+      "distance": 427,
+      "bearing": 97
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65388,
+        "lon": 17.42768
+      },
+      "distance": 1188,
+      "bearing": 110
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65024,
+        "lon": 17.44259
+      },
+      "distance": 355,
+      "bearing": 87
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65042,
+        "lon": 17.44732
+      },
+      "distance": 72,
+      "bearing": 75
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65059,
+        "lon": 17.44825
+      },
+      "distance": 627,
+      "bearing": 73
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65223,
+        "lon": 17.45626
+      },
+      "distance": 53,
+      "bearing": 108
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65208,
+        "lon": 17.45693
+      },
+      "distance": 114,
+      "bearing": 113
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65168,
+        "lon": 17.45833
+      },
+      "distance": 53,
+      "bearing": 82
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65175,
+        "lon": 17.45903
+      },
+      "distance": 42,
+      "bearing": 75
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65185,
+        "lon": 17.45957
+      },
+      "distance": 45,
+      "bearing": 103
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65176,
+        "lon": 17.46015
+      },
+      "distance": 51,
+      "bearing": 18
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6522,
+        "lon": 17.46036
+      },
+      "distance": 54,
+      "bearing": 31
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65262,
+        "lon": 17.46073
+      },
+      "distance": 132,
+      "bearing": 50
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65338,
+        "lon": 17.46208
+      },
+      "distance": 1157,
+      "bearing": 70
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6569,
+        "lon": 17.47662
+      },
+      "distance": 212,
+      "bearing": 55
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.658,
+        "lon": 17.47893
+      },
+      "distance": 735,
+      "bearing": 49
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66233,
+        "lon": 17.48634
+      },
+      "distance": 169,
+      "bearing": 82
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66254,
+        "lon": 17.48858
+      },
+      "distance": 1186,
+      "bearing": 92
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66216,
+        "lon": 17.50441
+      },
+      "distance": 191,
+      "bearing": 87
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66226,
+        "lon": 17.50695
+      },
+      "distance": 235,
+      "bearing": 61
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66328,
+        "lon": 17.5097
+      },
+      "distance": 1209,
+      "bearing": 51
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67009,
+        "lon": 17.52229
+      },
+      "distance": 1237,
+      "bearing": 70
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67391,
+        "lon": 17.53781
+      },
+      "distance": 71,
+      "bearing": 71
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67412,
+        "lon": 17.5387
+      },
+      "distance": 719,
+      "bearing": 71
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67627,
+        "lon": 17.54776
+      },
+      "distance": 41,
+      "bearing": 127
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67605,
+        "lon": 17.5482
+      },
+      "distance": 128,
+      "bearing": 126
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67538,
+        "lon": 17.54959
+      },
+      "distance": 59,
+      "bearing": 95
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67533,
+        "lon": 17.55037
+      },
+      "distance": 186,
+      "bearing": 95
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67519,
+        "lon": 17.55284
+      },
+      "distance": 1219,
+      "bearing": 123
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66922,
+        "lon": 17.56649
+      },
+      "distance": 1233,
+      "bearing": 125
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66292,
+        "lon": 17.58004
+      },
+      "distance": 1256,
+      "bearing": 126
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6563,
+        "lon": 17.59363
+      },
+      "distance": 1233,
+      "bearing": 126
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64979,
+        "lon": 17.60695
+      },
+      "distance": 1229,
+      "bearing": 125
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64342,
+        "lon": 17.62036
+      },
+      "distance": 617,
+      "bearing": 111
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64143,
+        "lon": 17.62805
+      },
+      "distance": 1230,
+      "bearing": 109
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63787,
+        "lon": 17.64359
+      },
+      "distance": 1231,
+      "bearing": 109
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63432,
+        "lon": 17.65915
+      },
+      "distance": 780,
+      "bearing": 102
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63288,
+        "lon": 17.66934
+      },
+      "distance": 543,
+      "bearing": 78
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63391,
+        "lon": 17.67642
+      },
+      "distance": 1228,
+      "bearing": 59
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63968,
+        "lon": 17.6904
+      },
+      "distance": 1232,
+      "bearing": 57
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64565,
+        "lon": 17.70425
+      },
+      "distance": 1229,
+      "bearing": 57
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6516,
+        "lon": 17.71808
+      },
+      "distance": 909,
+      "bearing": 60
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65569,
+        "lon": 17.72859
+      },
+      "distance": 1233,
+      "bearing": 64
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66055,
+        "lon": 17.74339
+      },
+      "distance": 1232,
+      "bearing": 67
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66496,
+        "lon": 17.75848
+      },
+      "distance": 1229,
+      "bearing": 66
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66949,
+        "lon": 17.77345
+      },
+      "distance": 1051,
+      "bearing": 51
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6755,
+        "lon": 17.78429
+      },
+      "distance": 1229,
+      "bearing": 43
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6836,
+        "lon": 17.79545
+      },
+      "distance": 691,
+      "bearing": 66
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68609,
+        "lon": 17.80391
+      },
+      "distance": 688,
+      "bearing": 87
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68645,
+        "lon": 17.81308
+      },
+      "distance": 1032,
+      "bearing": 99
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68492,
+        "lon": 17.82668
+      },
+      "distance": 1231,
+      "bearing": 93
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68426,
+        "lon": 17.8431
+      },
+      "distance": 1232,
+      "bearing": 89
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68446,
+        "lon": 17.85955
+      },
+      "distance": 1230,
+      "bearing": 91
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68435,
+        "lon": 17.87598
+      },
+      "distance": 1254,
+      "bearing": 97
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68291,
+        "lon": 17.89259
+      },
+      "distance": 1256,
+      "bearing": 100
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68088,
+        "lon": 17.9091
+      },
+      "distance": 1230,
+      "bearing": 98
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67941,
+        "lon": 17.92539
+      },
+      "distance": 986,
+      "bearing": 93
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67898,
+        "lon": 17.93854
+      },
+      "distance": 1229,
+      "bearing": 87
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67947,
+        "lon": 17.95494
+      },
+      "distance": 1233,
+      "bearing": 84
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6807,
+        "lon": 17.97131
+      },
+      "distance": 1256,
+      "bearing": 82
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68221,
+        "lon": 17.98794
+      },
+      "distance": 1227,
+      "bearing": 85
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68308,
+        "lon": 18.00428
+      },
+      "distance": 1229,
+      "bearing": 94
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68235,
+        "lon": 18.02066
+      },
+      "distance": 1229,
+      "bearing": 103
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67989,
+        "lon": 18.03666
+      },
+      "distance": 985,
+      "bearing": 107
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67728,
+        "lon": 18.04923
+      },
+      "distance": 1253,
+      "bearing": 104
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6746,
+        "lon": 18.06549
+      },
+      "distance": 1230,
+      "bearing": 92
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67418,
+        "lon": 18.0819
+      },
+      "distance": 1230,
+      "bearing": 87
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67475,
+        "lon": 18.09831
+      },
+      "distance": 1229,
+      "bearing": 98
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67325,
+        "lon": 18.11457
+      },
+      "distance": 1230,
+      "bearing": 109
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66964,
+        "lon": 18.1301
+      },
+      "distance": 1213,
+      "bearing": 112
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66564,
+        "lon": 18.14517
+      },
+      "distance": 928,
+      "bearing": 106
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66335,
+        "lon": 18.15709
+      },
+      "distance": 1164,
+      "bearing": 100
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66146,
+        "lon": 18.17238
+      },
+      "distance": 1111,
+      "bearing": 110
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65812,
+        "lon": 18.18636
+      },
+      "distance": 1166,
+      "bearing": 127
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65175,
+        "lon": 18.19872
+      },
+      "distance": 1177,
+      "bearing": 128
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6452,
+        "lon": 18.21107
+      },
+      "distance": 1198,
+      "bearing": 121
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63967,
+        "lon": 18.22479
+      },
+      "distance": 1177,
+      "bearing": 112
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63565,
+        "lon": 18.23932
+      },
+      "distance": 990,
+      "bearing": 115
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63183,
+        "lon": 18.25125
+      },
+      "distance": 1177,
+      "bearing": 115
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62741,
+        "lon": 18.26552
+      },
+      "distance": 1186,
+      "bearing": 101
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62537,
+        "lon": 18.28105
+      },
+      "distance": 1217,
+      "bearing": 88
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62573,
+        "lon": 18.29728
+      },
+      "distance": 1224,
+      "bearing": 96
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62463,
+        "lon": 18.31353
+      },
+      "distance": 1228,
+      "bearing": 107
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62141,
+        "lon": 18.3292
+      },
+      "distance": 1233,
+      "bearing": 117
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61642,
+        "lon": 18.34389
+      },
+      "distance": 987,
+      "bearing": 119
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61208,
+        "lon": 18.35538
+      },
+      "distance": 1229,
+      "bearing": 119
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.60673,
+        "lon": 18.36973
+      },
+      "distance": 1231,
+      "bearing": 120
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.60119,
+        "lon": 18.38394
+      },
+      "distance": 1230,
+      "bearing": 130
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.59412,
+        "lon": 18.39655
+      },
+      "distance": 1225,
+      "bearing": 146
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.58499,
+        "lon": 18.4057
+      },
+      "distance": 830,
+      "bearing": 142
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5791,
+        "lon": 18.41249
+      },
+      "distance": 365,
+      "bearing": 115
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57772,
+        "lon": 18.41691
+      },
+      "distance": 1306,
+      "bearing": 99
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57581,
+        "lon": 18.43409
+      },
+      "distance": 1025,
+      "bearing": 96
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57478,
+        "lon": 18.44767
+      },
+      "distance": 1176,
+      "bearing": 83
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57604,
+        "lon": 18.46323
+      },
+      "distance": 539,
+      "bearing": 113
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57415,
+        "lon": 18.46984
+      },
+      "distance": 518,
+      "bearing": 134
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57094,
+        "lon": 18.47484
+      },
+      "distance": 664,
+      "bearing": 155
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.56553,
+        "lon": 18.4786
+      },
+      "distance": 856,
+      "bearing": 154
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.55861,
+        "lon": 18.48361
+      },
+      "distance": 1278,
+      "bearing": 142
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.54954,
+        "lon": 18.49407
+      },
+      "distance": 1223,
+      "bearing": 160
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.53922,
+        "lon": 18.49971
+      },
+      "distance": 1222,
+      "bearing": 168
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52846,
+        "lon": 18.50303
+      },
+      "distance": 347,
+      "bearing": 143
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52596,
+        "lon": 18.5058
+      },
+      "distance": 534,
+      "bearing": 121
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52348,
+        "lon": 18.51189
+      },
+      "distance": 51,
+      "bearing": 113
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5233,
+        "lon": 18.51252
+      },
+      "distance": 1250,
+      "bearing": 117
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51818,
+        "lon": 18.52734
+      },
+      "distance": 1234,
+      "bearing": 138
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50994,
+        "lon": 18.53835
+      },
+      "distance": 1256,
+      "bearing": 131
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50247,
+        "lon": 18.5509
+      },
+      "distance": 1267,
+      "bearing": 124
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49608,
+        "lon": 18.56487
+      },
+      "distance": 703,
+      "bearing": 118
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49313,
+        "lon": 18.57315
+      },
+      "distance": 390,
+      "bearing": 92
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49302,
+        "lon": 18.57834
+      },
+      "distance": 389,
+      "bearing": 72
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49412,
+        "lon": 18.58326
+      },
+      "distance": 1229,
+      "bearing": 51
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50112,
+        "lon": 18.59592
+      },
+      "distance": 715,
+      "bearing": 49
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50531,
+        "lon": 18.60314
+      },
+      "distance": 739,
+      "bearing": 62
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50846,
+        "lon": 18.61181
+      },
+      "distance": 1276,
+      "bearing": 82
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51005,
+        "lon": 18.62863
+      },
+      "distance": 1225,
+      "bearing": 85
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51103,
+        "lon": 18.64488
+      },
+      "distance": 1240,
+      "bearing": 96
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50996,
+        "lon": 18.66131
+      },
+      "distance": 1218,
+      "bearing": 100
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50813,
+        "lon": 18.6773
+      },
+      "distance": 1229,
+      "bearing": 92
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5078,
+        "lon": 18.69366
+      },
+      "distance": 1226,
+      "bearing": 81
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50959,
+        "lon": 18.70976
+      },
+      "distance": 210,
+      "bearing": 81
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5099,
+        "lon": 18.71252
+      },
+      "distance": 1222,
+      "bearing": 84
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51102,
+        "lon": 18.7287
+      },
+      "distance": 1156,
+      "bearing": 95
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51012,
+        "lon": 18.74404
+      },
+      "distance": 1205,
+      "bearing": 106
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50717,
+        "lon": 18.75948
+      },
+      "distance": 1233,
+      "bearing": 109
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50353,
+        "lon": 18.77498
+      },
+      "distance": 1190,
+      "bearing": 108
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50031,
+        "lon": 18.79009
+      },
+      "distance": 1217,
+      "bearing": 104
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49763,
+        "lon": 18.80579
+      },
+      "distance": 945,
+      "bearing": 108
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49502,
+        "lon": 18.81776
+      },
+      "distance": 1090,
+      "bearing": 125
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.48943,
+        "lon": 18.82967
+      },
+      "distance": 1197,
+      "bearing": 136
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.48167,
+        "lon": 18.84071
+      },
+      "distance": 1256,
+      "bearing": 131
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47427,
+        "lon": 18.85333
+      },
+      "distance": 1213,
+      "bearing": 127
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46776,
+        "lon": 18.86628
+      },
+      "distance": 1145,
+      "bearing": 120
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46268,
+        "lon": 18.87953
+      },
+      "distance": 77,
+      "bearing": 125
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46228,
+        "lon": 18.88037
+      },
+      "distance": 57,
+      "bearing": 174
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46177,
+        "lon": 18.88045
+      },
+      "distance": 41,
+      "bearing": 220
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46149,
+        "lon": 18.8801
+      },
+      "distance": 36,
+      "bearing": 258
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46142,
+        "lon": 18.87963
+      },
+      "distance": 83,
+      "bearing": 271
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46143,
+        "lon": 18.87852
+      },
+      "distance": 56,
+      "bearing": 356
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46193,
+        "lon": 18.87847
+      },
+      "distance": 274,
+      "bearing": 15
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46431,
+        "lon": 18.87939
+      },
+      "distance": 326,
+      "bearing": 31
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46681,
+        "lon": 18.88165
+      },
+      "distance": 52,
+      "bearing": 339
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46725,
+        "lon": 18.8814
+      },
+      "distance": 41,
+      "bearing": 292
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46739,
+        "lon": 18.8809
+      },
+      "distance": 43,
+      "bearing": 255
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46729,
+        "lon": 18.88035
+      },
+      "distance": 0,
+      "bearing": 0
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46729,
+        "lon": 18.88035
+      },
+      "distance": 47,
+      "bearing": 221
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46697,
+        "lon": 18.87994
+      },
+      "distance": 71,
+      "bearing": 217
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46646,
+        "lon": 18.87937
+      },
+      "distance": 41,
+      "bearing": 218
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46617,
+        "lon": 18.87903
+      },
+      "distance": 48,
+      "bearing": 214
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46581,
+        "lon": 18.87867
+      },
+      "distance": 40,
+      "bearing": 304
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46601,
+        "lon": 18.87823
+      },
+      "distance": 56,
+      "bearing": 330
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46645,
+        "lon": 18.87786
+      },
+      "distance": 162,
+      "bearing": 299
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46716,
+        "lon": 18.87598
+      },
+      "distance": 39,
+      "bearing": 297
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46732,
+        "lon": 18.87552
+      },
+      "distance": 43,
+      "bearing": 314
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46759,
+        "lon": 18.87511
+      },
+      "distance": 40,
+      "bearing": 283
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46767,
+        "lon": 18.87459
+      },
+      "distance": 304,
+      "bearing": 298
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46894,
+        "lon": 18.87101
+      },
+      "distance": 31,
+      "bearing": 301
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46908,
+        "lon": 18.87066
+      },
+      "distance": 4,
+      "bearing": 24
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46911,
+        "lon": 18.87068
+      },
+      "distance": 6,
+      "bearing": 195
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46906,
+        "lon": 18.87066
+      },
+      "distance": 7,
+      "bearing": 34
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46911,
+        "lon": 18.87071
+      },
+      "distance": 5,
+      "bearing": 214
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46907,
+        "lon": 18.87067
+      },
+      "distance": 3,
+      "bearing": 70
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46908,
+        "lon": 18.87071
+      },
+      "distance": 3,
+      "bearing": 244
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46907,
+        "lon": 18.87068
+      },
+      "distance": 7,
+      "bearing": 39
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46912,
+        "lon": 18.87074
+      },
+      "distance": 24,
+      "bearing": 59
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46923,
+        "lon": 18.87101
+      },
+      "distance": 41,
+      "bearing": 121
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46904,
+        "lon": 18.87147
+      },
+      "distance": 289,
+      "bearing": 123
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46763,
+        "lon": 18.8747
+      },
+      "distance": 60,
+      "bearing": 194
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46711,
+        "lon": 18.87451
+      },
+      "distance": 88,
+      "bearing": 215
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46646,
+        "lon": 18.87384
+      },
+      "distance": 43,
+      "bearing": 219
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46616,
+        "lon": 18.87348
+      },
+      "distance": 37,
+      "bearing": 261
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46611,
+        "lon": 18.87299
+      },
+      "distance": 88,
+      "bearing": 282
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46627,
+        "lon": 18.87184
+      },
+      "distance": 307,
+      "bearing": 299
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46762,
+        "lon": 18.86827
+      },
+      "distance": 55,
+      "bearing": 12
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4681,
+        "lon": 18.86842
+      },
+      "distance": 50,
+      "bearing": 3
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46855,
+        "lon": 18.86846
+      },
+      "distance": 38,
+      "bearing": 56
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46874,
+        "lon": 18.86888
+      },
+      "distance": 6,
+      "bearing": 320
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46878,
+        "lon": 18.86883
+      },
+      "distance": 2,
+      "bearing": 270
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46878,
+        "lon": 18.86881
+      },
+      "distance": 3,
+      "bearing": 146
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46876,
+        "lon": 18.86883
+      },
+      "distance": 1,
+      "bearing": 0
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46877,
+        "lon": 18.86883
+      },
+      "distance": 3,
+      "bearing": 0
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4688,
+        "lon": 18.86883
+      },
+      "distance": 2,
+      "bearing": 126
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46879,
+        "lon": 18.86885
+      },
+      "distance": 3,
+      "bearing": 315
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46881,
+        "lon": 18.86882
+      },
+      "distance": 7,
+      "bearing": 126
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46877,
+        "lon": 18.8689
+      },
+      "distance": 6,
+      "bearing": 293
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46879,
+        "lon": 18.86883
+      },
+      "distance": 3,
+      "bearing": 225
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46877,
+        "lon": 18.8688
+      },
+      "distance": 8,
+      "bearing": 38
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46883,
+        "lon": 18.86887
+      },
+      "distance": 3,
+      "bearing": 167
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4688,
+        "lon": 18.86888
+      },
+      "distance": 2,
+      "bearing": 306
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46881,
+        "lon": 18.86886
+      },
+      "distance": 3,
+      "bearing": 214
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46879,
+        "lon": 18.86884
+      },
+      "distance": 4,
+      "bearing": 254
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46878,
+        "lon": 18.86879
+      },
+      "distance": 6,
+      "bearing": 54
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46881,
+        "lon": 18.86885
+      },
+      "distance": 13,
+      "bearing": 143
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46872,
+        "lon": 18.86895
+      },
+      "distance": 52,
+      "bearing": 196
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46827,
+        "lon": 18.86876
+      },
+      "distance": 65,
+      "bearing": 215
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46779,
+        "lon": 18.86827
+      },
+      "distance": 44,
+      "bearing": 139
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46749,
+        "lon": 18.86865
+      },
+      "distance": 329,
+      "bearing": 117
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46615,
+        "lon": 18.87255
+      },
+      "distance": 60,
+      "bearing": 89
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46616,
+        "lon": 18.87335
+      },
+      "distance": 39,
+      "bearing": 47
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4664,
+        "lon": 18.87373
+      },
+      "distance": 127,
+      "bearing": 36
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46732,
+        "lon": 18.87473
+      },
+      "distance": 39,
+      "bearing": 70
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46744,
+        "lon": 18.87522
+      },
+      "distance": 39,
+      "bearing": 311
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46767,
+        "lon": 18.87483
+      },
+      "distance": 38,
+      "bearing": 296
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46782,
+        "lon": 18.87438
+      },
+      "distance": 228,
+      "bearing": 301
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46888,
+        "lon": 18.87179
+      },
+      "distance": 17,
+      "bearing": 210
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46875,
+        "lon": 18.87168
+      },
+      "distance": 39,
+      "bearing": 121
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46857,
+        "lon": 18.87212
+      },
+      "distance": 89,
+      "bearing": 118
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46819,
+        "lon": 18.87316
+      },
+      "distance": 41,
+      "bearing": 135
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46793,
+        "lon": 18.87355
+      },
+      "distance": 6,
+      "bearing": 352
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46798,
+        "lon": 18.87354
+      },
+      "distance": 5,
+      "bearing": 207
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46794,
+        "lon": 18.87351
+      },
+      "distance": 2,
+      "bearing": 199
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46792,
+        "lon": 18.8735
+      },
+      "distance": 11,
+      "bearing": 21
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46801,
+        "lon": 18.87355
+      },
+      "distance": 20,
+      "bearing": 331
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46817,
+        "lon": 18.87342
+      },
+      "distance": 51,
+      "bearing": 291
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46833,
+        "lon": 18.87279
+      },
+      "distance": 37,
+      "bearing": 282
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4684,
+        "lon": 18.87231
+      },
+      "distance": 15,
+      "bearing": 319
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4685,
+        "lon": 18.87218
+      },
+      "distance": 0,
+      "bearing": 0
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4685,
+        "lon": 18.87218
+      },
+      "distance": 5,
+      "bearing": 244
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46848,
+        "lon": 18.87212
+      },
+      "distance": 5,
+      "bearing": 90
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46848,
+        "lon": 18.87218
+      },
+      "distance": 4,
+      "bearing": 54
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4685,
+        "lon": 18.87222
+      },
+      "distance": 4,
+      "bearing": 239
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46848,
+        "lon": 18.87217
+      },
+      "distance": 3,
+      "bearing": 110
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46847,
+        "lon": 18.87221
+      },
+      "distance": 5,
+      "bearing": 312
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4685,
+        "lon": 18.87216
+      },
+      "distance": 2,
+      "bearing": 234
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46849,
+        "lon": 18.87214
+      },
+      "distance": 3,
+      "bearing": 90
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46849,
+        "lon": 18.87218
+      },
+      "distance": 3,
+      "bearing": 250
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46848,
+        "lon": 18.87214
+      },
+      "distance": 4,
+      "bearing": 24
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46851,
+        "lon": 18.87216
+      },
+      "distance": 3,
+      "bearing": 146
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46849,
+        "lon": 18.87218
+      },
+      "distance": 2,
+      "bearing": 180
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46847,
+        "lon": 18.87218
+      },
+      "distance": 3,
+      "bearing": 315
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46849,
+        "lon": 18.87215
+      },
+      "distance": 2,
+      "bearing": 19
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46851,
+        "lon": 18.87216
+      },
+      "distance": 1,
+      "bearing": 90
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46851,
+        "lon": 18.87217
+      },
+      "distance": 0,
+      "bearing": 0
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46851,
+        "lon": 18.87217
+      },
+      "distance": 2,
+      "bearing": 341
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46853,
+        "lon": 18.87216
+      },
+      "distance": 14,
+      "bearing": 52
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46861,
+        "lon": 18.87231
+      },
+      "distance": 37,
+      "bearing": 117
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46846,
+        "lon": 18.87275
+      },
+      "distance": 178,
+      "bearing": 125
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46754,
+        "lon": 18.87469
+      },
+      "distance": 39,
+      "bearing": 128
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46732,
+        "lon": 18.8751
+      },
+      "distance": 37,
+      "bearing": 109
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46721,
+        "lon": 18.87556
+      },
+      "distance": 70,
+      "bearing": 127
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46683,
+        "lon": 18.8763
+      },
+      "distance": 55,
+      "bearing": 146
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46642,
+        "lon": 18.87671
+      },
+      "distance": 146,
+      "bearing": 115
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46586,
+        "lon": 18.87847
+      },
+      "distance": 48,
+      "bearing": 83
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46591,
+        "lon": 18.8791
+      },
+      "distance": 50,
+      "bearing": 48
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46621,
+        "lon": 18.8796
+      },
+      "distance": 114,
+      "bearing": 20
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46717,
+        "lon": 18.88012
+      },
+      "distance": 47,
+      "bearing": 59
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46739,
+        "lon": 18.88066
+      },
+      "distance": 34,
+      "bearing": 94
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46737,
+        "lon": 18.88111
+      },
+      "distance": 48,
+      "bearing": 142
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46703,
+        "lon": 18.88151
+      },
+      "distance": 58,
+      "bearing": 176
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46651,
+        "lon": 18.88156
+      },
+      "distance": 55,
+      "bearing": 213
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4661,
+        "lon": 18.88116
+      },
+      "distance": 109,
+      "bearing": 224
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46539,
+        "lon": 18.88016
+      },
+      "distance": 38,
+      "bearing": 258
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46532,
+        "lon": 18.87967
+      },
+      "distance": 506,
+      "bearing": 272
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46547,
+        "lon": 18.87294
+      },
+      "distance": 512,
+      "bearing": 299
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.46768,
+        "lon": 18.86697
+      },
+      "distance": 1129,
+      "bearing": 307
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47372,
+        "lon": 18.8549
+      },
+      "distance": 512,
+      "bearing": 307
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.47652,
+        "lon": 18.84949
+      },
+      "distance": 1219,
+      "bearing": 313
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.48402,
+        "lon": 18.83766
+      },
+      "distance": 1267,
+      "bearing": 314
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49196,
+        "lon": 18.82557
+      },
+      "distance": 1054,
+      "bearing": 298
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49635,
+        "lon": 18.81314
+      },
+      "distance": 1222,
+      "bearing": 285
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49914,
+        "lon": 18.7974
+      },
+      "distance": 1229,
+      "bearing": 286
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5021,
+        "lon": 18.78164
+      },
+      "distance": 1226,
+      "bearing": 289
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5057,
+        "lon": 18.76622
+      },
+      "distance": 1174,
+      "bearing": 289
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50911,
+        "lon": 18.75143
+      },
+      "distance": 1219,
+      "bearing": 280
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51104,
+        "lon": 18.73546
+      },
+      "distance": 1224,
+      "bearing": 268
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51071,
+        "lon": 18.71917
+      },
+      "distance": 1250,
+      "bearing": 261
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50894,
+        "lon": 18.70273
+      },
+      "distance": 1217,
+      "bearing": 263
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50762,
+        "lon": 18.68665
+      },
+      "distance": 1228,
+      "bearing": 278
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50907,
+        "lon": 18.67044
+      },
+      "distance": 1209,
+      "bearing": 280
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51089,
+        "lon": 18.65457
+      },
+      "distance": 971,
+      "bearing": 271
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51101,
+        "lon": 18.64164
+      },
+      "distance": 1259,
+      "bearing": 265
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50993,
+        "lon": 18.62496
+      },
+      "distance": 1041,
+      "bearing": 261
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50854,
+        "lon": 18.61125
+      },
+      "distance": 743,
+      "bearing": 240
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.50523,
+        "lon": 18.60266
+      },
+      "distance": 1252,
+      "bearing": 229
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49786,
+        "lon": 18.59006
+      },
+      "distance": 808,
+      "bearing": 235
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49369,
+        "lon": 18.58126
+      },
+      "distance": 368,
+      "bearing": 259
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49308,
+        "lon": 18.57644
+      },
+      "distance": 384,
+      "bearing": 280
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.49368,
+        "lon": 18.57141
+      },
+      "distance": 1232,
+      "bearing": 302
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.4996,
+        "lon": 18.55755
+      },
+      "distance": 1033,
+      "bearing": 304
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5048,
+        "lon": 18.54615
+      },
+      "distance": 1208,
+      "bearing": 318
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51282,
+        "lon": 18.53531
+      },
+      "distance": 1048,
+      "bearing": 313
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.51921,
+        "lon": 18.52505
+      },
+      "distance": 1205,
+      "bearing": 296
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.524,
+        "lon": 18.51065
+      },
+      "distance": 460,
+      "bearing": 305
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52636,
+        "lon": 18.50562
+      },
+      "distance": 385,
+      "bearing": 326
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.52923,
+        "lon": 18.50276
+      },
+      "distance": 1261,
+      "bearing": 349
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.54036,
+        "lon": 18.49951
+      },
+      "distance": 1200,
+      "bearing": 338
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.55038,
+        "lon": 18.49356
+      },
+      "distance": 1228,
+      "bearing": 322
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.55906,
+        "lon": 18.48345
+      },
+      "distance": 221,
+      "bearing": 326
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5607,
+        "lon": 18.48179
+      },
+      "distance": 1274,
+      "bearing": 336
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57115,
+        "lon": 18.47482
+      },
+      "distance": 463,
+      "bearing": 314
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57404,
+        "lon": 18.47038
+      },
+      "distance": 538,
+      "bearing": 294
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57603,
+        "lon": 18.46385
+      },
+      "distance": 535,
+      "bearing": 274
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57635,
+        "lon": 18.45674
+      },
+      "distance": 1138,
+      "bearing": 263
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57509,
+        "lon": 18.44169
+      },
+      "distance": 1199,
+      "bearing": 280
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57687,
+        "lon": 18.42592
+      },
+      "distance": 941,
+      "bearing": 283
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.57881,
+        "lon": 18.41371
+      },
+      "distance": 326,
+      "bearing": 311
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.58072,
+        "lon": 18.41042
+      },
+      "distance": 1215,
+      "bearing": 326
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.58978,
+        "lon": 18.40137
+      },
+      "distance": 455,
+      "bearing": 327
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.5932,
+        "lon": 18.39803
+      },
+      "distance": 1203,
+      "bearing": 311
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.60034,
+        "lon": 18.38597
+      },
+      "distance": 1202,
+      "bearing": 301
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.60587,
+        "lon": 18.3722
+      },
+      "distance": 1228,
+      "bearing": 299
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61126,
+        "lon": 18.3579
+      },
+      "distance": 1251,
+      "bearing": 299
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.61671,
+        "lon": 18.3433
+      },
+      "distance": 1224,
+      "bearing": 297
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62169,
+        "lon": 18.32873
+      },
+      "distance": 1227,
+      "bearing": 287
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62485,
+        "lon": 18.31305
+      },
+      "distance": 984,
+      "bearing": 276
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6258,
+        "lon": 18.29999
+      },
+      "distance": 1226,
+      "bearing": 268
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62548,
+        "lon": 18.28364
+      },
+      "distance": 1245,
+      "bearing": 278
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.62711,
+        "lon": 18.26721
+      },
+      "distance": 1228,
+      "bearing": 294
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63165,
+        "lon": 18.25227
+      },
+      "distance": 1225,
+      "bearing": 295
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63634,
+        "lon": 18.23747
+      },
+      "distance": 1227,
+      "bearing": 293
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64065,
+        "lon": 18.22239
+      },
+      "distance": 1227,
+      "bearing": 303
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64659,
+        "lon": 18.20859
+      },
+      "distance": 1010,
+      "bearing": 308
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65224,
+        "lon": 18.19804
+      },
+      "distance": 1224,
+      "bearing": 307
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65884,
+        "lon": 18.18496
+      },
+      "distance": 1223,
+      "bearing": 287
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66198,
+        "lon": 18.16931
+      },
+      "distance": 1230,
+      "bearing": 281
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66418,
+        "lon": 18.15322
+      },
+      "distance": 1224,
+      "bearing": 289
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66768,
+        "lon": 18.13772
+      },
+      "distance": 1227,
+      "bearing": 292
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67183,
+        "lon": 18.12254
+      },
+      "distance": 1251,
+      "bearing": 283
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67445,
+        "lon": 18.10629
+      },
+      "distance": 979,
+      "bearing": 273
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67485,
+        "lon": 18.09323
+      },
+      "distance": 1229,
+      "bearing": 267
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67419,
+        "lon": 18.07685
+      },
+      "distance": 1227,
+      "bearing": 276
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67536,
+        "lon": 18.06056
+      },
+      "distance": 1227,
+      "bearing": 286
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67838,
+        "lon": 18.0448
+      },
+      "distance": 1253,
+      "bearing": 286
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68148,
+        "lon": 18.02871
+      },
+      "distance": 1225,
+      "bearing": 279
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68311,
+        "lon": 18.01252
+      },
+      "distance": 1225,
+      "bearing": 269
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68288,
+        "lon": 17.99616
+      },
+      "distance": 982,
+      "bearing": 263
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68186,
+        "lon": 17.98313
+      },
+      "distance": 1227,
+      "bearing": 262
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6804,
+        "lon": 17.96689
+      },
+      "distance": 1254,
+      "bearing": 265
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67934,
+        "lon": 17.95022
+      },
+      "distance": 1228,
+      "bearing": 269
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67921,
+        "lon": 17.93382
+      },
+      "distance": 1166,
+      "bearing": 275
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68009,
+        "lon": 17.9183
+      },
+      "distance": 1161,
+      "bearing": 279
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68178,
+        "lon": 17.90299
+      },
+      "distance": 1132,
+      "bearing": 280
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68358,
+        "lon": 17.88811
+      },
+      "distance": 937,
+      "bearing": 276
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6845,
+        "lon": 17.87567
+      },
+      "distance": 1187,
+      "bearing": 270
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68456,
+        "lon": 17.85981
+      },
+      "distance": 1226,
+      "bearing": 269
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68438,
+        "lon": 17.84344
+      },
+      "distance": 1227,
+      "bearing": 273
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68505,
+        "lon": 17.82708
+      },
+      "distance": 1226,
+      "bearing": 279
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6867,
+        "lon": 17.81088
+      },
+      "distance": 706,
+      "bearing": 261
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68575,
+        "lon": 17.80156
+      },
+      "distance": 729,
+      "bearing": 241
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68259,
+        "lon": 17.79302
+      },
+      "distance": 1250,
+      "bearing": 221
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6741,
+        "lon": 17.78207
+      },
+      "distance": 787,
+      "bearing": 232
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66976,
+        "lon": 17.77376
+      },
+      "distance": 1229,
+      "bearing": 245
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66516,
+        "lon": 17.75884
+      },
+      "distance": 1226,
+      "bearing": 247
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66078,
+        "lon": 17.74382
+      },
+      "distance": 1226,
+      "bearing": 244
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65598,
+        "lon": 17.72909
+      },
+      "distance": 1257,
+      "bearing": 240
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65025,
+        "lon": 17.71463
+      },
+      "distance": 1245,
+      "bearing": 238
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64424,
+        "lon": 17.70061
+      },
+      "distance": 1227,
+      "bearing": 237
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63829,
+        "lon": 17.68681
+      },
+      "distance": 981,
+      "bearing": 240
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63383,
+        "lon": 17.67552
+      },
+      "distance": 512,
+      "bearing": 260
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63304,
+        "lon": 17.66879
+      },
+      "distance": 664,
+      "bearing": 282
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63426,
+        "lon": 17.66012
+      },
+      "distance": 1252,
+      "bearing": 289
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.63789,
+        "lon": 17.6443
+      },
+      "distance": 1218,
+      "bearing": 289
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64141,
+        "lon": 17.62891
+      },
+      "distance": 1027,
+      "bearing": 295
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64534,
+        "lon": 17.61651
+      },
+      "distance": 51,
+      "bearing": 327
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64573,
+        "lon": 17.61614
+      },
+      "distance": 54,
+      "bearing": 21
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64618,
+        "lon": 17.6164
+      },
+      "distance": 46,
+      "bearing": 64
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64636,
+        "lon": 17.61695
+      },
+      "distance": 34,
+      "bearing": 98
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64632,
+        "lon": 17.6174
+      },
+      "distance": 64,
+      "bearing": 126
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64598,
+        "lon": 17.61809
+      },
+      "distance": 34,
+      "bearing": 90
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64598,
+        "lon": 17.61855
+      },
+      "distance": 365,
+      "bearing": 47
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64824,
+        "lon": 17.62209
+      },
+      "distance": 44,
+      "bearing": 45
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64852,
+        "lon": 17.6225
+      },
+      "distance": 102,
+      "bearing": 48
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.64913,
+        "lon": 17.62352
+      },
+      "distance": 807,
+      "bearing": 50
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65377,
+        "lon": 17.6318
+      },
+      "distance": 700,
+      "bearing": 31
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.65916,
+        "lon": 17.63662
+      },
+      "distance": 145,
+      "bearing": 29
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6603,
+        "lon": 17.63757
+      },
+      "distance": 61,
+      "bearing": 11
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66084,
+        "lon": 17.63772
+      },
+      "distance": 673,
+      "bearing": 347
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.66674,
+        "lon": 17.63573
+      },
+      "distance": 672,
+      "bearing": 347
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67262,
+        "lon": 17.63368
+      },
+      "distance": 162,
+      "bearing": 334
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67393,
+        "lon": 17.63272
+      },
+      "distance": 766,
+      "bearing": 313
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67862,
+        "lon": 17.62523
+      },
+      "distance": 127,
+      "bearing": 334
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67965,
+        "lon": 17.6245
+      },
+      "distance": 125,
+      "bearing": 357
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68077,
+        "lon": 17.62442
+      },
+      "distance": 74,
+      "bearing": 21
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68139,
+        "lon": 17.62477
+      },
+      "distance": 43,
+      "bearing": 44
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68167,
+        "lon": 17.62517
+      },
+      "distance": 42,
+      "bearing": 120
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68148,
+        "lon": 17.62565
+      },
+      "distance": 66,
+      "bearing": 149
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68097,
+        "lon": 17.62611
+      },
+      "distance": 45,
+      "bearing": 235
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68074,
+        "lon": 17.62562
+      },
+      "distance": 744,
+      "bearing": 245
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67791,
+        "lon": 17.61661
+      },
+      "distance": 199,
+      "bearing": 245
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67714,
+        "lon": 17.61421
+      },
+      "distance": 50,
+      "bearing": 168
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6767,
+        "lon": 17.61435
+      },
+      "distance": 99,
+      "bearing": 137
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67605,
+        "lon": 17.61525
+      },
+      "distance": 47,
+      "bearing": 148
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67569,
+        "lon": 17.61559
+      },
+      "distance": 39,
+      "bearing": 57
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67588,
+        "lon": 17.61603
+      },
+      "distance": 113,
+      "bearing": 66
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67629,
+        "lon": 17.61741
+      },
+      "distance": 55,
+      "bearing": 19
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67676,
+        "lon": 17.61765
+      },
+      "distance": 131,
+      "bearing": 21
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67786,
+        "lon": 17.61828
+      },
+      "distance": 10,
+      "bearing": 312
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67792,
+        "lon": 17.61818
+      },
+      "distance": 1,
+      "bearing": 180
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67791,
+        "lon": 17.61818
+      },
+      "distance": 7,
+      "bearing": 174
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67785,
+        "lon": 17.61819
+      },
+      "distance": 13,
+      "bearing": 296
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6779,
+        "lon": 17.61804
+      },
+      "distance": 20,
+      "bearing": 141
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67776,
+        "lon": 17.61821
+      },
+      "distance": 2,
+      "bearing": 127
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67775,
+        "lon": 17.61823
+      },
+      "distance": 7,
+      "bearing": 0
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67781,
+        "lon": 17.61823
+      },
+      "distance": 1,
+      "bearing": 270
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67781,
+        "lon": 17.61822
+      },
+      "distance": 7,
+      "bearing": 299
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67784,
+        "lon": 17.61814
+      },
+      "distance": 50,
+      "bearing": 183
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67739,
+        "lon": 17.6181
+      },
+      "distance": 134,
+      "bearing": 202
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67627,
+        "lon": 17.61744
+      },
+      "distance": 120,
+      "bearing": 244
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67579,
+        "lon": 17.616
+      },
+      "distance": 36,
+      "bearing": 245
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67565,
+        "lon": 17.61556
+      },
+      "distance": 44,
+      "bearing": 328
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67599,
+        "lon": 17.61525
+      },
+      "distance": 49,
+      "bearing": 320
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67633,
+        "lon": 17.61483
+      },
+      "distance": 99,
+      "bearing": 315
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67696,
+        "lon": 17.6139
+      },
+      "distance": 43,
+      "bearing": 267
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67694,
+        "lon": 17.61332
+      },
+      "distance": 198,
+      "bearing": 250
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67633,
+        "lon": 17.61083
+      },
+      "distance": 1083,
+      "bearing": 271
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67652,
+        "lon": 17.59637
+      },
+      "distance": 974,
+      "bearing": 286
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67891,
+        "lon": 17.58385
+      },
+      "distance": 971,
+      "bearing": 294
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68242,
+        "lon": 17.57197
+      },
+      "distance": 43,
+      "bearing": 212
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68209,
+        "lon": 17.57166
+      },
+      "distance": 59,
+      "bearing": 223
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6817,
+        "lon": 17.57112
+      },
+      "distance": 88,
+      "bearing": 240
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6813,
+        "lon": 17.57011
+      },
+      "distance": 1019,
+      "bearing": 254
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67875,
+        "lon": 17.55703
+      },
+      "distance": 438,
+      "bearing": 251
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67744,
+        "lon": 17.55151
+      },
+      "distance": 47,
+      "bearing": 308
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.6777,
+        "lon": 17.55102
+      },
+      "distance": 125,
+      "bearing": 303
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67831,
+        "lon": 17.54962
+      },
+      "distance": 297,
+      "bearing": 283
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.67892,
+        "lon": 17.54576
+      },
+      "distance": 1174,
+      "bearing": 319
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68684,
+        "lon": 17.53538
+      },
+      "distance": 364,
+      "bearing": 302
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.68858,
+        "lon": 17.53126
+      },
+      "distance": 1224,
+      "bearing": 293
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.69291,
+        "lon": 17.51623
+      },
+      "distance": 1254,
+      "bearing": 303
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.69905,
+        "lon": 17.50218
+      },
+      "distance": 1227,
+      "bearing": 309
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.70601,
+        "lon": 17.48946
+      },
+      "distance": 1227,
+      "bearing": 309
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.71297,
+        "lon": 17.47674
+      },
+      "distance": 1227,
+      "bearing": 309
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.71995,
+        "lon": 17.46403
+      },
+      "distance": 1227,
+      "bearing": 310
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.72699,
+        "lon": 17.4514
+      },
+      "distance": 997,
+      "bearing": 314
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.73324,
+        "lon": 17.44184
+      },
+      "distance": 1154,
+      "bearing": 316
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.74065,
+        "lon": 17.43104
+      },
+      "distance": 1144,
+      "bearing": 316
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.748,
+        "lon": 17.42034
+      },
+      "distance": 1202,
+      "bearing": 313
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.75534,
+        "lon": 17.40853
+      },
+      "distance": 1197,
+      "bearing": 306
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.76164,
+        "lon": 17.39554
+      },
+      "distance": 1249,
+      "bearing": 302
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.76757,
+        "lon": 17.38134
+      },
+      "distance": 1228,
+      "bearing": 302
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.7734,
+        "lon": 17.36738
+      },
+      "distance": 975,
+      "bearing": 302
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.77803,
+        "lon": 17.3563
+      },
+      "distance": 1200,
+      "bearing": 302
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.78372,
+        "lon": 17.34265
+      },
+      "distance": 1198,
+      "bearing": 302
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.7894,
+        "lon": 17.32902
+      },
+      "distance": 1162,
+      "bearing": 306
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.79559,
+        "lon": 17.31648
+      },
+      "distance": 1182,
+      "bearing": 314
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.80293,
+        "lon": 17.30504
+      },
+      "distance": 1156,
+      "bearing": 321
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.81106,
+        "lon": 17.29539
+      },
+      "distance": 1163,
+      "bearing": 327
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.81983,
+        "lon": 17.2869
+      },
+      "distance": 928,
+      "bearing": 327
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.82683,
+        "lon": 17.28012
+      },
+      "distance": 1151,
+      "bearing": 324
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.83519,
+        "lon": 17.27103
+      },
+      "distance": 1165,
+      "bearing": 318
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.84297,
+        "lon": 17.26058
+      },
+      "distance": 1127,
+      "bearing": 318
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.85046,
+        "lon": 17.25041
+      },
+      "distance": 289,
+      "bearing": 320
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.85245,
+        "lon": 17.24791
+      },
+      "distance": 53,
+      "bearing": 9
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.85292,
+        "lon": 17.24802
+      },
+      "distance": 40,
+      "bearing": 56
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.85312,
+        "lon": 17.24847
+      },
+      "distance": 43,
+      "bearing": 94
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.85309,
+        "lon": 17.24905
+      },
+      "distance": 61,
+      "bearing": 130
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.85274,
+        "lon": 17.24968
+      },
+      "distance": 39,
+      "bearing": 119
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.85257,
+        "lon": 17.25014
+      },
+      "distance": 871,
+      "bearing": 68
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.85556,
+        "lon": 17.26093
+      },
+      "distance": 362,
+      "bearing": 77
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.85629,
+        "lon": 17.26566
+      },
+      "distance": 54,
+      "bearing": 11
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.85677,
+        "lon": 17.2658
+      },
+      "distance": 441,
+      "bearing": 9
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.86069,
+        "lon": 17.26668
+      },
+      "distance": 782,
+      "bearing": 8
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.86765,
+        "lon": 17.26822
+      },
+      "distance": 516,
+      "bearing": 9
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.87224,
+        "lon": 17.26925
+      },
+      "distance": 51,
+      "bearing": 15
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.87268,
+        "lon": 17.26943
+      },
+      "distance": 126,
+      "bearing": 333
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.87369,
+        "lon": 17.26865
+      },
+      "distance": 36,
+      "bearing": 295
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.87383,
+        "lon": 17.26821
+      },
+      "distance": 194,
+      "bearing": 283
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.87423,
+        "lon": 17.26568
+      },
+      "distance": 553,
+      "bearing": 306
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.87713,
+        "lon": 17.25965
+      },
+      "distance": 49,
+      "bearing": 303
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.87737,
+        "lon": 17.2591
+      },
+      "distance": 41,
+      "bearing": 303
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.87757,
+        "lon": 17.25864
+      },
+      "distance": 204,
+      "bearing": 303
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.87858,
+        "lon": 17.25635
+      },
+      "distance": 50,
+      "bearing": 21
+    },
+    {
+      "fromGPSP": {
+        "lat": 47.879,
+        "lon": 17.25659
+      },
+      "distance": 76,
+      "bearing": 35
+    }
+  ]
+}
