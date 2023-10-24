@@ -10,33 +10,30 @@ import {Logger} from "../../util/Logger";
 export class JsonGPSTrackInputFileParser implements GenericGPSTrackInputFileParser {
     private readonly fileName: string;
 
-    /**
-     * Asynchronously parses a JSON file to extract an array of GPSTrack objects.
-     * @returns A Promise that resolves to an array of GPSTrack objects.
-     */
-    async parse(): Promise<GPSTrack[]> {
-        const jsonFilePath = path.join(__dirname, '../../../resources/' + this.fileName);
-        return new Promise<GPSTrack[]>((resolve, reject) => {
-            fs.readFile(jsonFilePath, 'utf8', (error: NodeJS.ErrnoException | null, data) => {
-                if (error) {
-                    Logger.error('Error reading JSON file:', error);
-                    reject(error);
-                    return;
-                }
-                Logger.step("Input file <" + this.fileName + "> found.")
-                try {
-                    const jsonData = JSON.parse(data);
-                    const tracks = jsonData.input;
-                    resolve(tracks);
-                } catch (error) {
-                    Logger.error('Error parsing JSON:', error);
-                    reject(error);
-                }
-            });
-        });
-    }
-
     constructor(inputFileName: string) {
         this.fileName = inputFileName;
+    }
+
+    /**
+     * Asynchronously parses a JSON file and returns an AsyncGenerator of GPSTrack objects.
+     * @returns An AsyncGenerator of GPSTrack objects.
+     */
+    async* parse(): AsyncGenerator<GPSTrack> {
+        const jsonFilePath = path.join(__dirname, '../../../../resources/' + this.fileName);
+        const fileDescriptor = fs.openSync(jsonFilePath, 'r');
+        const fileStream = fs.createReadStream(jsonFilePath, {encoding: 'utf8'});
+        const buffer = Buffer.alloc(1);
+        let jsonString = '';
+        let bytesRead;
+
+        while (bytesRead = fs.readSync(fileDescriptor, buffer, 0, 1, null) > 0) {
+            const char = buffer.toString();
+
+        }
+
+        if (jsonString.trim() !== '') {
+            Logger.info('Incomplete JSON data at the end of the file: ' + jsonString);
+        }
+
     }
 }
