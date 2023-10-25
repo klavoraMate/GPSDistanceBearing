@@ -27,7 +27,17 @@ npm install
 npm run build
 ```
 
-## Usage
+## Easy usage
+1. There is an input file already in the resource directory so you can run it with
+```shell
+#Result in metric units
+npm run start-metric
+#Result in imperial units
+npm run start-imperial
+```
+2. The output file is located in the application/resources directory
+
+## Advanced usage
 1. Place any input file that you want to process into the /application/resources directory. You have the option to relocate it to a different folder and then specify the correct path in the execution script.
 2. Run the application and specify the path of the input and output file including the name and type, along with your preferred units for the output file.
 ```shell
