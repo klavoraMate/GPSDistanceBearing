@@ -14,20 +14,20 @@ export class ImperialDistanceBearingToJsonFileGenerator implements GenericDistan
     }
 
     /**
-     * Generates a JSON output file from an AsyncGenerator contained collection of DistanceBearing data in imperial units.
+     * Generates a JSON output file from an AsyncGenerator contained DistanceBearing data in imperial units.
      * @param distanceBearings - An array of DistanceBearing data in metric units to be converted and exported.
      */
     generate(distanceBearings: AsyncGenerator<DistanceBearing>): void {
-        distanceBearings = this.formatResult(distanceBearings);
+        distanceBearings = this.convertResult(distanceBearings);
         AsyncJsonOutputFileGenerator.generate(distanceBearings, this.fileName);
     }
 
     /**
-     * Formats a collection of DistanceBearing data async from metric to imperial unit, and it is also rounds it.
+     * Converts an AsyncGenerator contained DistanceBearing data async from metric to imperial unit, and it is also rounds it.
      * @param distanceBearings - An array of DistanceBearing data in metric units.
      * @returns A formatted array of DistanceBearing rounded data in imperial units.
      */
-    async *formatResult(distanceBearings: AsyncGenerator<DistanceBearing>): AsyncGenerator<DistanceBearing> {
+    async *convertResult(distanceBearings: AsyncGenerator<DistanceBearing>): AsyncGenerator<DistanceBearing> {
         for await (let distanceBearing of distanceBearings){
             distanceBearing = {
                 fromGPSP: distanceBearing.fromGPSP,

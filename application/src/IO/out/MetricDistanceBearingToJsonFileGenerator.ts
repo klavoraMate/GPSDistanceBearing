@@ -13,20 +13,20 @@ export class MetricDistanceBearingToJsonFileGenerator implements GenericDistance
     }
 
     /**
-     * Generates a JSON output file from an AsyncGenerator contained collection of DistanceBearing data in metric units.
+     * Generates a JSON output file from an AsyncGenerator contained DistanceBearing data in metric units.
      * @param distanceBearings - An array of DistanceBearing data in metric units to be exported.
      */
     generate(distanceBearings: AsyncGenerator<DistanceBearing>): void {
-        distanceBearings = this.formatResult(distanceBearings);
+        distanceBearings = this.convertResult(distanceBearings);
         AsyncJsonOutputFileGenerator.generate(distanceBearings, this.fileName);
     }
 
     /**
-     * Formats a collection of DistanceBearing data async in metric units by rounding the values.
+     * Converts a AsyncGenerator contained DistanceBearing data async in metric units by rounding the values.
      * @param distanceBearings - An array of DistanceBearing data in metric units.
      * @returns A formatted array of DistanceBearing data with rounded values.
      */
-    async *formatResult(distanceBearings: AsyncGenerator<DistanceBearing>): AsyncGenerator<DistanceBearing> {
+    async *convertResult(distanceBearings: AsyncGenerator<DistanceBearing>): AsyncGenerator<DistanceBearing> {
         for await (let distanceBearing of distanceBearings){
            distanceBearing = {
                fromGPSP: distanceBearing.fromGPSP,
