@@ -19,6 +19,7 @@ switch (measurementSystem) {
             .calculator(new DistanceBearingCalculator())
             .generator(new MetricDistanceBearingToJsonFileGenerator(outputPath))
             .build();
+        handler.run();
         break;
     }
     case "imperial": {
@@ -27,9 +28,9 @@ switch (measurementSystem) {
             .calculator(new DistanceBearingCalculator())
             .generator(new ImperialDistanceBearingToJsonFileGenerator(outputPath))
             .build();
+        handler.run();
         break;
     }
     default:
         Logger.info("Invalid command. Usage: node ./dir/src/app.js <input file path with name and type> <output file path with name and type> [metric,imperial]")
 }
-handler.run();

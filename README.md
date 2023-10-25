@@ -16,11 +16,15 @@ https://github.com/klavoraMate/GPSDistanceBearing
 ```
 2. Navigate to application directory
 ```shell
-cd application
+cd GPSDistanceBearing/application
 ```
 3. Install NPM packages.
 ```shell
 npm install
+```
+4. Build the project.
+```shell
+npm run build
 ```
 
 ## Usage

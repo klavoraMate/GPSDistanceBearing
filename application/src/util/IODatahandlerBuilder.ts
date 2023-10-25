@@ -15,7 +15,7 @@ export class IODataHandlerBuilder {
      * Set the parser for the IODataHandler.
      * @param parser The parser to use.
      */
-    static parser(parser: GenericGPSTrackInputFileParser): this {
+    static parser(parser: GenericGPSTrackInputFileParser){
         this.parserObject = parser;
         return this;
     }
@@ -24,7 +24,7 @@ export class IODataHandlerBuilder {
      * Set the calculator for the IODataHandler.
      * @param calculator The calculator to use.
      */
-    static calculator(calculator: Calculator<any, any>): this {
+    static calculator(calculator: Calculator<any, any>){
         this.calculatorObject = calculator;
         return this;
     }
@@ -33,7 +33,7 @@ export class IODataHandlerBuilder {
      * Set the generator for the IODataHandler.
      * @param generator The generator to use.
      */
-    static generator(generator: GenericDistanceBearingToFileGenerator): this {
+    static generator(generator: GenericDistanceBearingToFileGenerator){
         this.generatorObject = generator;
         return this;
     }
