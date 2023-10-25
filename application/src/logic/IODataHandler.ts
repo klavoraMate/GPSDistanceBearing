@@ -2,7 +2,6 @@ import {GenericGPSTrackInputFileParser} from "../IO/in/GenericGPSTrackInputFileP
 import {GenericDistanceBearingToFileGenerator} from "../IO/out/GenericDistanceBearingToFileGenerator";
 import {Logger} from "../util/Logger";
 import {Calculator} from "./Calculator";
-import {GPSTrack} from "../data/GPSTrack";
 
 /**
  * An I/O calculator that extends the DistanceBearingCalculator class and uses
