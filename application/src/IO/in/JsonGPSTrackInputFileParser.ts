@@ -45,18 +45,13 @@ export class JsonGPSTrackInputFileParser implements GenericGPSTrackInputFilePars
         const fileDescriptor = fs.openSync(jsonFilePath, 'r');
         const buffer = Buffer.alloc(1);
 
-        // remove trailing: {input:[
-        let endReached = false;
-        while (fs.readSync(fileDescriptor, buffer, 0, 1, null) > 0 && !endReached) {
-            const char = buffer.toString();
-            if (char === '[')
-                endReached = true;
-        }
+        this.removeTrailing(fileDescriptor);
 
         while (fs.readSync(fileDescriptor, buffer, 0, 1, null) > 0) {
-            endReached = false;
+            let endReached = false;
             let closingCount = 0;
             let jsonString = '';
+
             while (fs.readSync(fileDescriptor, buffer, 0, 1, null) > 0 && !endReached) {
                 const char = buffer.toString();
                 jsonString += char;
@@ -67,26 +62,31 @@ export class JsonGPSTrackInputFileParser implements GenericGPSTrackInputFilePars
             }
 
             //try parsing only when jsonString contains the necessary values
-            if (jsonString.includes("date")&&jsonString.includes("time")&&jsonString.includes("GPSP")){
+            if (jsonString.includes("date") && jsonString.includes("time") && jsonString.includes("GPSP")) {
                 try {
-                    const jsonTrack = JSON.parse(jsonString);
-                    const track: GPSTrack = {
-                        date: jsonTrack.date,
-                        time: jsonTrack.time,
-                        GPSP: {
-                            lat: jsonTrack.GPSP.lat,
-                            lon: jsonTrack.GPSP.lon,
-                        },
-                    };
+                    const track = JSON.parse(jsonString);
                     yield track;
                 } catch (error) {
                     Logger.error('Error parsing JSON:', error);
                     throw error;
                 }
             }
-
         }
+    }
 
-
+    /**
+     * Removes {input:[ trailing at the end of the file
+     *
+     * @param fileDescriptor file which needs to me modified
+     * @private
+     */
+    private removeTrailing(fileDescriptor:number) {
+        const buffer = Buffer.alloc(1);
+        let endReached = false;
+        while (fs.readSync(fileDescriptor, buffer, 0, 1, null) > 0 && !endReached) {
+            const char = buffer.toString();
+            if (char === '[')
+                endReached = true;
+        }
     }
 }
