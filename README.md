@@ -1,4 +1,5 @@
 <h3 align="center" >GPSDistanceBearing</h3>
+
 ## About the project
 
 This project uses an input file that contains GPS tracks. The application is able to find the distance and initial
@@ -13,7 +14,11 @@ bearing between two points. These results are stored in an output file in metric
 ```shell
 https://github.com/klavoraMate/GPSDistanceBearing
 ```
-2. Install NPM packages.
+2. Navigate to application directory
+```shell
+cd application
+```
+3. Install NPM packages.
 ```shell
 npm install
 ```
