@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start-metric": "node ./dir/src/app.js ./resources/input.json resources/metric-output.json metric",
+    "start-metric": "node ./dir/src/app.js ./resources/input.json resources/output.json metric",
     "start-imperial": "node ./dir/src/app.js ./resources/input.json ./resources/output.json imperial",
     "build": "tsc -outDir ./dir",
     "test": "jest"
