@@ -1,4 +1,4 @@
-import path from "path";
+import path  from "path";
 import fs from "fs";
 import {Logger} from "../../util/Logger";
 
@@ -10,10 +10,10 @@ export class AsyncJsonOutputFileGenerator<T> {
      * Generates a JSON file containing the specified data.
      *
      * @param input - The AsyncGenerator contained data to be exported to the JSON file.
-     * @param fileName - The name of the JSON file to be created or overwritten.
+     * @param pathString - The name of the JSON file to be created or overwritten.
      */
-    static async generate<T>(input: AsyncGenerator<T>, fileName: string): Promise<void> {
-        const jsonFilePath = path.join(__dirname, '../../../../resources/' + fileName);
+    static async generate<T>(input: AsyncGenerator<T>, pathString: string): Promise<void> {
+        const jsonFilePath = path.join(pathString);
         const writeStream = fs.createWriteStream(jsonFilePath, { encoding: 'utf8' });
 
         writeStream.write('{"output": [', 'utf8');
@@ -34,7 +34,7 @@ export class AsyncJsonOutputFileGenerator<T> {
         writeStream.end(']}', 'utf8');
 
         writeStream.on('finish', () => {
-            Logger.step('JSON file <' + fileName + '> saved successfully.');
+            Logger.step('JSON file <' + pathString + '> saved successfully.');
         });
 
         writeStream.on('error', (err) => {

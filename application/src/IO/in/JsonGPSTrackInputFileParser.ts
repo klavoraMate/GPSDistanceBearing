@@ -8,10 +8,10 @@ import {Logger} from "../../util/Logger";
  * A JSON GPSTrack input file parser that implements the GenericGPSTrackInputFileParser interface.
  */
 export class JsonGPSTrackInputFileParser implements GenericGPSTrackInputFileParser {
-    private readonly fileName: string;
+    private readonly path: string;
 
-    constructor(inputFileName: string) {
-        this.fileName = inputFileName;
+    constructor(path: string) {
+        this.path = path;
     }
 
     /**
@@ -41,7 +41,7 @@ export class JsonGPSTrackInputFileParser implements GenericGPSTrackInputFilePars
      * @returns An AsyncGenerator of GPSTrack objects.
      */
     async* parse(): AsyncGenerator<GPSTrack> {
-        const jsonFilePath = path.join(__dirname, '../../../../resources/' + this.fileName);
+        const jsonFilePath = path.join(this.path);
         const fileDescriptor = fs.openSync(jsonFilePath, 'r');
         const buffer = Buffer.alloc(1);
 
@@ -66,7 +66,7 @@ export class JsonGPSTrackInputFileParser implements GenericGPSTrackInputFilePars
                     endReached = true;
             }
 
-            //try parsing only when jsonString contains the necessary values 
+            //try parsing only when jsonString contains the necessary values
             if (jsonString.includes("date")&&jsonString.includes("time")&&jsonString.includes("GPSP")){
                 try {
                     const jsonTrack = JSON.parse(jsonString);

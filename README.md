@@ -19,13 +19,13 @@ npm install
 ```
 
 ## Usage
-1. Place any input file that you want to process into the /application/resources directory
-2. Run the application and specify the name of the input and output file, along with your preferred units for the output file.
+1. Place any input file that you want to process into the /application/resources directory. You have the option to relocate it to a different folder and then specify the correct path in the execution script.
+2. Run the application and specify the path of the input and output file including the name and type, along with your preferred units for the output file.
 ```shell
 #Result in metric units
-node ./dir/app.js input.json output.json metric
+node ./dir/src/app.js ./resources/input.json ./resources/output.json metric
 #Result in imperial units
-node ./dir/app.js input.json output.json imperial 
+node ./dir/src/app.js ./resources/input.json ./resources/output.json imperial
 ```
 
 
